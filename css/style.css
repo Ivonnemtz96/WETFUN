@@ -340,7 +340,7 @@ a.btn_1.outline.white,
 }
 a.btn_1.outline:hover,
 .btn_1.outline:hover {
-  background-color: #4b514d;
+  background-color: #379cf4;
   border: 2px solid transparent;
   color: #fff;
 }
@@ -2005,7 +2005,7 @@ footer a:hover {
 footer .copy {
   text-align: center;
   padding: 25px 0;
-  background-color: #1f2127;
+  background-color: #13304a;
   font-size: 13px;
   font-size: 0.8125rem;
 }
@@ -2747,8 +2747,8 @@ a.box_cat_rooms:hover .background-image {
   animation-name: flipInX;
 }
 .box_overlay {
-  background-color: #24262d;
-  background-color: #24262d;
+  background-color: #13304a;
+  background-color: #13304a;
   padding: 45px 45px 45px 225px;
   min-height: 170px;
   color: #fff;

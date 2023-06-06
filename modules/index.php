@@ -23,19 +23,31 @@ iframe {
 }
 
 @media (min-aspect-ratio: 16/9) {
-    .video-container iframe {
-        height: 56.25vw;
-    }
+  .video-container iframe {
+    height: 56.25vw;
+  }
+}
+@media (max-aspect-ratio: 16/9) {
+  .video-container iframe {
+    width: 177.78vh;
+  }
+
+  .video-container2 iframe {
+    width: 57.78vh;
+  }
+
+  iframe{
+    top: 4%;
+  }
 }
 
-@media (max-aspect-ratio: 16/9) {
-    .video-container iframe {
-        width: 177.78vh;
-    }
 
-    iframe {
-        top: 4%;
-    }
+@media (max-width: 844px) and (min-width: 484px) {
+    .video-container2 iframe {
+    width: 97.78vh;
+  }
+
+ 
 }
 
 #text {
@@ -52,39 +64,20 @@ iframe {
     padding: 10px;
 
 }
-
-#box {
-    width: 300px;
-    height: 200px;
-    box-shadow: inset 1px 1px 40px 0 rgba(0, 0, 0, 0.45);
-    border-bottom: 2px solid #fff;
-    border-right: 2px solid #fff;
-    margin: 5% auto 0 auto;
-    background: url(http://ianfarb.com/wp-content/uploads/2013/10/nicholas-hodag.jpg);
-    background-size: cover;
-    border-radius: 5px;
-    overflow: hidden;
-    z-index: 999;
-}
-
-#overlay {
-    position: relative;
-    height: 56rem;
-    z-index: 9999;
-    background: rgba(0, 0, 0, 0.5);
-    text-align: center;
-    padding: 45px 0 66px 0;
-    opacity: .6;
-    -webkit-transition: opacity 0.25s ease;
-    -moz-transition: opacity 0.25s ease;
-}
 </style>
 
 <main>
-    <div class="video-container">
+    <div class="video-container d-none d-md-block">
         <!-- <div id="overlay"></div> -->
         <iframe
             src="https://www.youtube.com/embed/OuFox1cjDGs?controls=0&autoplay=1&mute=1&playsinline=1&loop=1&playlist=OuFox1cjDGs"></iframe>
+    </div>
+
+
+    <div class="video-container video-container2 d-block d-md-none">
+        <!-- <div id="overlay"></div> -->
+        <iframe
+            src="https://www.youtube.com/embed/Cln0R-x2rUw?controls=0&autoplay=1&mute=1&playsinline=1&loop=1&playlist=Cln0R-x2rUw"></iframe>
     </div>
 
     <!-- <div id="text" class="text-center titulo">
