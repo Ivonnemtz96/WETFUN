@@ -13,11 +13,10 @@
                     <div class="logo_panel"><img src="img/logo_sticky.png" width="135" height="45" alt=""></div>
                     <nav id="mainNav">
                         <ul>
-                            <li><a href="about.html" class="animated_link">About</a></li>
-                            <li><a href="room-list-1.html" class="animated_link">Rooms & Suites</a></li>
-                            <li><a href="news-1.html" class="animated_link">News & events</a></li>
-                            <li><a href="contacts.html" class="animated_link">Contacts</a></li>
-                            <li><a href="#booking_section" class="btn_1">Book Now</a></li>
+                            <li><a href="about.html" class="animated_link">Inicio</a></li>
+                            <li><a href="room-list-1.html" class="animated_link">Galería</a></li>
+                            <li><a href="news-1.html" class="animated_link">¿Cómo llegar?</a></li>
+                            <li><a href="contacts.html" class="animated_link">Mapa</a></li>
                         </ul>
                     </nav>
                 </div>

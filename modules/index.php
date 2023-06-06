@@ -1,12 +1,12 @@
 <style>
 .video-container {
     width: 100vw;
-    height: 100vh;
+    height: 95vh;
 }
 
 iframe {
     position: absolute;
-    top: 6%;
+    top: 8%;
     left: 50%;
     width: 100vw;
     height: 100vh;
@@ -87,9 +87,9 @@ iframe {
             src="https://www.youtube.com/embed/OuFox1cjDGs?controls=0&autoplay=1&mute=1&playsinline=1&loop=1&playlist=OuFox1cjDGs"></iframe>
     </div>
 
-    <div id="text" class="text-center titulo">
+    <!-- <div id="text" class="text-center titulo">
         <h1 style="color: #fff;">¡Obtén tus entradas! <br> Directamente en las taquillas del parque</h1>
-    </div>
+    </div> -->
 
     <div class="pattern_2">
         <div class="container margin_120_95" id="first_section">
@@ -111,7 +111,7 @@ iframe {
                         <p>Somos el lugar perfecto para escapar del calor y sumergirte en un mundo lleno de
                             diversión acuática. Ven y descubre por qué somos el parque favorito de todos los amantes del
                             agua.</p>
-                        <p ><em style="color: #13304a;">Wild Wet Fun</em></p>
+                        <p><em style="color: #13304a;">Wild Wet Fun</em></p>
                     </div>
                 </div>
             </div>
@@ -128,8 +128,9 @@ iframe {
             </div>
             <div class="pinned_over_content">
                 <div class="title white">
-                    <small data-cue="slideInUp" data-delay="200">Luxury Hotel Experience</small>
-                    <h2 data-cue="slideInUp" data-delay="300">Enjoy in a very<br> Immersive Relax</h2>
+                    <small data-cue="slideInUp" data-delay="200">¿Ya tienes tus boletos?</small>
+                    <h2 data-cue="slideInUp" data-delay="300">Obtén tus boletos<br> directamente en las taquillas del
+                        parque</h2>
                 </div>
             </div>
         </div>
@@ -137,95 +138,11 @@ iframe {
     </div>
     <!-- /Pattern  -->
 
-    <div class="container margin_120_95">
-        <div class="title mb-3">
-            <small data-cue="slideInUp">Luxury experience</small>
-            <h2 data-cue="slideInUp" data-delay="200">Rooms & Suites</h2>
-        </div>
-        <div class="row justify-content-center add_bottom_90" data-cues="slideInUp" data-delay="300">
-            <div class="col-xl-6 col-lg-12 col-md-12 col-sm-12">
-                <a href="room-details.html" class="box_cat_rooms">
-                    <figure>
-                        <div class="background-image" data-background="url(/img/rooms/1.jpg)"></div>
-                        <div class="info">
-                            <small>From $250/night</small>
-                            <h3>Junior Suite</h3>
-                            <span>Read more</span>
-                        </div>
-                    </figure>
-                </a>
-            </div>
-            <div class="col-xl-3 col-lg-6 col-md-6 col-sm-6">
-                <a href="room-details.html" class="box_cat_rooms">
-                    <figure>
-                        <div class="background-image" data-background="url(/img/rooms/2.jpg)"></div>
-                        <div class="info">
-                            <small>From $190/night</small>
-                            <h3>Deluxe Room</h3>
-                            <span>Read more</span>
-                        </div>
-                    </figure>
-                </a>
-            </div>
-            <div class="col-xl-3 col-lg-6 col-md-6 col-sm-6">
-                <a href="room-details.html" class="box_cat_rooms">
-                    <figure>
-                        <div class="background-image" data-background="url(/img/rooms/3.jpg)"></div>
-                        <div class="info">
-                            <small>From $240/night</small>
-                            <h3>Superior Room</h3>
-                            <span>Read more</span>
-                        </div>
-                    </figure>
-                </a>
-            </div>
-            <p class="text-end"><a href="room-list-1.html" class="btn_1 outline mt-2">View all Rooms</a></p>
-        </div>
-        <!-- /row-->
 
-        <div class="title text-center mb-5">
-            <small data-cue="slideInUp">Paradise Hotel</small>
-            <h2 data-cue="slideInUp" data-delay="100">Main Facilities</h2>
-        </div>
-        <div class="row mt-4">
-            <div class="col-xl-3 col-md-6">
-                <div class="box_facilities no-border" data-cue="slideInUp">
-                    <i class="customicon-private-parking"></i>
-                    <h3>Private Parking</h3>
-                    <p>Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam.</p>
-                </div>
-            </div>
-            <div class="col-xl-3 col-md-6">
-                <div class="box_facilities" data-cue="slideInUp">
-                    <i class="customicon-wifi"></i>
-                    <h3>High Speed Wifi</h3>
-                    <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium.</p>
-                </div>
-            </div>
-            <div class="col-xl-3 col-md-6">
-                <div class="box_facilities" data-cue="slideInUp">
-                    <i class="customicon-cocktail"></i>
-                    <h3>Bar & Restaurant</h3>
-                    <p>Similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga.</p>
-                </div>
-            </div>
-            <div class="col-xl-3 col-md-6">
-                <div class="box_facilities" data-cue="slideInUp">
-                    <i class="customicon-swimming-pool"></i>
-                    <h3>Swimming Pool</h3>
-                    <p>Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus.</p>
-                </div>
-            </div>
-        </div>
-        <!-- /Row -->
-    </div>
-    <!-- /container-->
 
     <div class="marquee">
         <div class="track">
-            <div class="content">&nbsp;Relax Enjoy Luxury Holiday Travel Discover Experience Relax Enjoy Luxury Holiday
-                Travel Discover Experience Relax Enjoy Luxury Holiday Travel Discover Experience Relax Enjoy Luxury
-                Holiday Travel Discover Experience</div>
+            <div class="content">&nbsp;Wild Wet Fun Wild Wet Fun Wild Wet Fun Wild Wet Fun Wild Wet Fun</div>
         </div>
     </div>
     <!-- /marquee-->
@@ -236,18 +153,19 @@ iframe {
                 <div class="col-lg-6">
                     <div class="pinned-image rounded_container pinned-image--small mb-4">
                         <div class="pinned-image__container">
-                            <img src="/img/local_amenities_1.jpg" alt="">
+                            <img src="/img/local_amenities_1.webp" alt="">
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-5">
                     <div class="title">
-                        <small>Local Amenities</small>
-                        <h3>Restaurants</h3>
-                        <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-                            laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-                            architecto beatae vitae dicta sunt explicabo.</p>
-                        <p><a href="about.html" class="btn_1 mt-1 outline">Read more</a></p>
+                        <small>Vive la adrenalina</small>
+                        <h3>Zona Extreme</h3>
+                        <p>
+                            ¡No te quedes con las ganas de disfrutar de esta atracción! <br>
+                            Horarios: <strong>11:00 am a 01:00 pm</strong>
+                        </p>
+                        <p><a href="/galeria" class="btn_1 mt-1 outline">Ver galería</a></p>
                     </div>
                 </div>
             </div>
@@ -256,18 +174,41 @@ iframe {
                 <div class="col-lg-6 order-lg-2">
                     <div class="pinned-image rounded_container pinned-image--small mb-4">
                         <div class="pinned-image__container">
-                            <img src="/img/local_amenities_3.jpg" alt="">
+                            <img src="/img/local_amenities_2.webp" alt="">
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-5 order-lg-1">
                     <div class="title">
-                        <small>Local Amenities</small>
-                        <h3>Art & Culture</h3>
-                        <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-                            laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-                            architecto beatae vitae dicta sunt explicabo.</p>
-                        <p><a href="about.html" class="btn_1 mt-1 outline">Read more</a></p>
+                        <small>¡Prepárate para el mejor día de tu vida en Wild Wet Fun!</small>
+                        <h3>Zona Finisterra</h3>
+                        <p>
+                            ¡El aburrimiento se ahoga en nuestros toboganes! <br>
+                            Horarios: <strong>02:00 pm a 03:30 pm</strong>
+                        </p>
+                        <p><a href="/galeria" class="btn_1 mt-1 outline">Ver galería</a></p>
+                    </div>
+                </div>
+            </div>
+            <!-- /row-->
+
+            <div class="row justify-content-between d-flex align-items-center add_bottom_90">
+                <div class="col-lg-6">
+                    <div class="pinned-image rounded_container pinned-image--small mb-4">
+                        <div class="pinned-image__container">
+                            <img src="/img/local_amenities_3.webp" alt="">
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-5">
+                    <div class="title">
+                        <small>Donde la diversión y el agua se unen en armonía</small>
+                        <h3>Zona Splash</h3>
+                        <p>
+                            Si te gusta el agua, la diversión y las carcajadas, entonces Wild Wet Fun es tu paraíso <br>
+                            Horarios: <strong>04:00 am a 05:30 pm</strong>
+                        </p>
+                        <p><a href="/galeria" class="btn_1 mt-1 outline">Ver galería</a></p>
                     </div>
                 </div>
             </div>
@@ -285,8 +226,8 @@ iframe {
                 <div class="row justify-content-center">
                     <div class="col-lg-8">
                         <div class="title white">
-                            <small class="mb-1">Testimonials</small>
-                            <h2>What Clients Says</h2>
+                            <small class="mb-1">Opiniones</small>
+                            <h2>¿Qué dicen nuestros clientes?</h2>
                         </div>
                         <div class="carousel_testimonials owl-carousel owl-theme nav-dots-orizontal">
                             <div>
@@ -294,11 +235,10 @@ iframe {
                                     <div class="pic">
                                         <figure><img src="/img/testimonial_1.jpg" alt="" class="img-circle">
                                         </figure>
-                                        <h4>Roberta<small>12 Oct</small></h4>
+                                        <h4>Melany Urbina</h4>
                                     </div>
                                     <div class="comment">
-                                        "Mea ad postea meliore fuisset. Timeam repudiare id eum, ex paulo dictas
-                                        elaboraret sed, mel cu unum nostrud."
+                                        "Me encantó un lugar muy limpio y agradable para estar con amigos o familia."
                                     </div>
                                 </div>
                                 <!-- End box_overlay -->
@@ -308,11 +248,18 @@ iframe {
                                     <div class="pic">
                                         <figure><img src="/img/testimonial_1.jpg" alt="" class="img-circle">
                                         </figure>
-                                        <h4>Roberta<small>2 Nov</small></h4>
+                                        <h4>Patricio Estrella</h4>
                                     </div>
                                     <div class="comment">
-                                        "Mea ad postea meliore fuisset. Timeam repudiare id eum, ex paulo dictas
-                                        elaboraret sed, mel cu unum nostrud."
+                                        "Diversión a lo grande, solo como recomendación no vallan en domingo filas
+                                        largas para subirte a un tobogán, calor extremo, filas para un helado, para una
+                                        cerveza preparada., la lectura en el brazalete entre bajo su propio riesgo no se
+                                        si es por marketing o por deslindar cual quier responsabilidad.
+                                        En comida el cordon blue sigue siendo mi favorito, el SASHIMI muy rico el
+                                        CEVICHE de pescando también muy rico
+                                        En el tobogán del torbellino (escuzado) se requiere de dos personas atentas para
+                                        ayuda al salir de la piscina en donde caes
+                                        Saludos."
                                     </div>
                                 </div>
                                 <!-- End box_overlay -->
@@ -322,11 +269,10 @@ iframe {
                                     <div class="pic">
                                         <figure><img src="/img/testimonial_1.jpg" alt="" class="img-circle">
                                         </figure>
-                                        <h4>Roberta<small>3 Dec</small></h4>
+                                        <h4>FERNANDO DANIEL LOPEZ COSIO</h4>
                                     </div>
                                     <div class="comment">
-                                        "Mea ad postea meliore fuisset. Timeam repudiare id eum, ex paulo dictas
-                                        elaboraret sed, mel cu unum nostrud."
+                                        "Maravilloso increíble para pasar un buen día en familia y amigos, precios accesibles, un lugar para todo el público."
                                     </div>
                                 </div>
                                 <!-- End box_overlay -->
@@ -339,72 +285,4 @@ iframe {
         </div>
     </div>
     <!-- /parallax_section_1-->
-
-
-    <div class="container margin_120_95" id="booking_section">
-        <div class="row justify-content-between">
-            <div class="col-xl-4">
-                <div data-cue="slideInUp">
-                    <div class="title">
-                        <small>Paradise Hotel</small>
-                        <h2>Check Availability</h2>
-                    </div>
-                    <p>Mea nibh meis philosophia eu. Duis legimus efficiantur ea sea. Id placerat tacimates definitionem
-                        sea, prima quidam vim no. Duo nobis persecuti cu. </p>
-                    <p class="phone_element no_borders"><a href="tel://423424234"><i
-                                class="bi bi-telephone"></i><span><em>Info and bookings</em>+41 934 121 1334</span></a>
-                    </p>
-                </div>
-            </div>
-            <div class="col-xl-7">
-                <div data-cue="slideInUp" data-delay="200">
-                    <div class="booking_wrapper">
-                        <p id="daterangepicker-result" class="d-none"></p>
-                        <input id="date_booking" type="hidden">
-                        <div id="daterangepicker-embedded-container" class="embedded-daterangepicker clearfix mb-4">
-                        </div>
-                        <div class="row">
-                            <div class="col-lg-6">
-                                <div class="custom_select">
-                                    <select class="wide">
-                                        <option>Select Room</option>
-                                        <option>Double Room</option>
-                                        <option>Deluxe Room</option>
-                                        <option>Superior Room</option>
-                                        <option>Junior Suite</option>
-                                    </select>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="row">
-                                    <div class="col-6">
-                                        <div class="qty-buttons mb-3 version_2">
-                                            <input type="button" value="+" class="qtyplus" name="adults_booking">
-                                            <input type="text" name="adults_booking" id="adults_booking" value=""
-                                                class="qty form-control" placeholder="Adults">
-                                            <input type="button" value="-" class="qtyminus" name="adults_booking">
-                                        </div>
-                                    </div>
-                                    <div class="col-6">
-                                        <div class="mb-3 qty-buttons mb-3 version_2">
-                                            <input type="button" value="+" class="qtyplus" name="childs_booking">
-                                            <input type="text" name="childs_booking" id="childs_booking" value=""
-                                                class="qty form-control" placeholder="Childs">
-                                            <input type="button" value="-" class="qtyminus" name="childs_booking">
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- / row -->
-                    <p class="text-end mt-4"><a href="#0" class="btn_1 outline">Book Now</a></p>
-                </div>
-            </div>
-            <!-- /col -->
-        </div>
-        <!-- /row -->
-    </div>
-    <!-- /container -->
-
 </main>
