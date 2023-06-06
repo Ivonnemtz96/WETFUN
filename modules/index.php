@@ -32,85 +32,86 @@ iframe {
     .video-container iframe {
         width: 177.78vh;
     }
-    iframe{
+
+    iframe {
         top: 4%;
     }
 }
 
-#text{
-  position: absolute;
-  color: #FFFFFF;
-  left: 50%;
-  top: 6%;
-  transform: translate(-50%, -50%);
-  
+#text {
+    position: absolute;
+    color: #FFFFFF;
+    left: 50%;
+    top: 6%;
+    transform: translate(-50%, -50%);
+
 }
-.titulo{
-  background: rgba(0,0,0,0.5);
-  padding: 10px;
+
+.titulo {
+    background: rgba(0, 0, 0, 0.5);
+    padding: 10px;
 
 }
 
 #box {
-  width: 300px;
-  height: 200px;
-  box-shadow: inset 1px 1px 40px 0 rgba(0, 0, 0, 0.45);
-  border-bottom: 2px solid #fff;
-  border-right: 2px solid #fff;
-  margin: 5% auto 0 auto;
-  background: url(http://ianfarb.com/wp-content/uploads/2013/10/nicholas-hodag.jpg);
-  background-size: cover;
-  border-radius: 5px;
-  overflow: hidden;
-  z-index: 999;
+    width: 300px;
+    height: 200px;
+    box-shadow: inset 1px 1px 40px 0 rgba(0, 0, 0, 0.45);
+    border-bottom: 2px solid #fff;
+    border-right: 2px solid #fff;
+    margin: 5% auto 0 auto;
+    background: url(http://ianfarb.com/wp-content/uploads/2013/10/nicholas-hodag.jpg);
+    background-size: cover;
+    border-radius: 5px;
+    overflow: hidden;
+    z-index: 999;
 }
 
 #overlay {
     position: relative;
     height: 56rem;
-z-index: 9999;
-  background: rgba(0, 0, 0, 0.5);
-  text-align: center;
-  padding: 45px 0 66px 0;
-  opacity: .6;
-  -webkit-transition: opacity 0.25s ease;
-  -moz-transition: opacity 0.25s ease;
+    z-index: 9999;
+    background: rgba(0, 0, 0, 0.5);
+    text-align: center;
+    padding: 45px 0 66px 0;
+    opacity: .6;
+    -webkit-transition: opacity 0.25s ease;
+    -moz-transition: opacity 0.25s ease;
 }
 </style>
 
 <main>
-<div class="video-container">
-    <!-- <div id="overlay"></div> -->
-    <iframe
-        src="https://www.youtube.com/embed/OuFox1cjDGs?controls=0&autoplay=1&mute=1&playsinline=1&loop=1&playlist=OuFox1cjDGs"></iframe>
-</div>
+    <div class="video-container">
+        <!-- <div id="overlay"></div> -->
+        <iframe
+            src="https://www.youtube.com/embed/OuFox1cjDGs?controls=0&autoplay=1&mute=1&playsinline=1&loop=1&playlist=OuFox1cjDGs"></iframe>
+    </div>
 
-<div id="text" class="text-center titulo">
-  <h1 style="color: #fff;">¡Obtén tus entradas! <br> Directamente en las taquillas del parque</h1>
-</div>
+    <div id="text" class="text-center titulo">
+        <h1 style="color: #fff;">¡Obtén tus entradas! <br> Directamente en las taquillas del parque</h1>
+    </div>
 
     <div class="pattern_2">
         <div class="container margin_120_95" id="first_section">
             <div class="row justify-content-between flex-lg-row-reverse align-items-center">
                 <div class="col-lg-5">
                     <div class="parallax_wrapper">
-                        <img src="img/home_2.jpg" alt="" class="img-fluid rounded-img">
+                        <img src="/img/home_2.jpg?=1" alt="" class="img-fluid rounded-img">
                         <div data-cue="slideInUp" class="img_over"><span data-jarallax-element="-30"><img
-                                    src="img/home_1.jpg" alt="" class="rounded-img"></span></div>
+                                    src="/img/home_1.jpg?=1" alt="" class="rounded-img"></span></div>
                     </div>
                 </div>
                 <div class="col-lg-5">
                     <div class="intro">
                         <div class="title">
-                            <small>About us</small>
-                            <h2>Tailored services and the experience of unique holidays</h2>
+                            <!-- <small>About us</small> -->
+                            <h2 style="color: #13304a;">¡Prepárate para la diversión salvaje en Wild Wet Fun!</h2>
                         </div>
-                        <p class="lead">Vivamus volutpat eros pulvinar velit laoreet, sit amet egestas erat dignissim.
-                        </p>
-                        <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-                            laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-                            architecto beatae vitae dicta sunt explicabo.</p>
-                        <p><em>Maria...the Owner</em></p>
+                        <!-- <p class="lead">Vivamus volutpat eros pulvinar velit laoreet, sit amet egestas erat dignissim.</p> -->
+                        <p>Somos el lugar perfecto para escapar del calor y sumergirte en un mundo lleno de
+                            diversión acuática. Ven y descubre por qué somos el parque favorito de todos los amantes del
+                            agua.</p>
+                        <p ><em style="color: #13304a;">Wild Wet Fun</em></p>
                     </div>
                 </div>
             </div>
@@ -119,9 +120,9 @@ z-index: 9999;
         <div class="pinned-image pinned-image--medium">
             <div class="pinned-image__container" id="section_video">
                 <video loop="loop" muted="muted" id="video_home">
-                    <source src="video/swimming_pool_2.mp4" type="video/mp4">
-                    <source src="video/swimming_pool_2.webm" type="video/webm">
-                    <source src="video/swimming_pool_2.ogv" type="video/ogg">
+                    <source src="/video/swimming_pool_2.mp4" type="video/mp4">
+                    <source src="/video/swimming_pool_2.webm" type="video/webm">
+                    <source src="/video/swimming_pool_2.ogv" type="video/ogg">
                 </video>
                 <div class="pinned-image__container-overlay"></div>
             </div>
@@ -145,7 +146,7 @@ z-index: 9999;
             <div class="col-xl-6 col-lg-12 col-md-12 col-sm-12">
                 <a href="room-details.html" class="box_cat_rooms">
                     <figure>
-                        <div class="background-image" data-background="url(img/rooms/1.jpg)"></div>
+                        <div class="background-image" data-background="url(/img/rooms/1.jpg)"></div>
                         <div class="info">
                             <small>From $250/night</small>
                             <h3>Junior Suite</h3>
@@ -157,7 +158,7 @@ z-index: 9999;
             <div class="col-xl-3 col-lg-6 col-md-6 col-sm-6">
                 <a href="room-details.html" class="box_cat_rooms">
                     <figure>
-                        <div class="background-image" data-background="url(img/rooms/2.jpg)"></div>
+                        <div class="background-image" data-background="url(/img/rooms/2.jpg)"></div>
                         <div class="info">
                             <small>From $190/night</small>
                             <h3>Deluxe Room</h3>
@@ -169,7 +170,7 @@ z-index: 9999;
             <div class="col-xl-3 col-lg-6 col-md-6 col-sm-6">
                 <a href="room-details.html" class="box_cat_rooms">
                     <figure>
-                        <div class="background-image" data-background="url(img/rooms/3.jpg)"></div>
+                        <div class="background-image" data-background="url(/img/rooms/3.jpg)"></div>
                         <div class="info">
                             <small>From $240/night</small>
                             <h3>Superior Room</h3>
@@ -235,7 +236,7 @@ z-index: 9999;
                 <div class="col-lg-6">
                     <div class="pinned-image rounded_container pinned-image--small mb-4">
                         <div class="pinned-image__container">
-                            <img src="img/local_amenities_1.jpg" alt="">
+                            <img src="/img/local_amenities_1.jpg" alt="">
                         </div>
                     </div>
                 </div>
@@ -255,7 +256,7 @@ z-index: 9999;
                 <div class="col-lg-6 order-lg-2">
                     <div class="pinned-image rounded_container pinned-image--small mb-4">
                         <div class="pinned-image__container">
-                            <img src="img/local_amenities_3.jpg" alt="">
+                            <img src="/img/local_amenities_3.jpg" alt="">
                         </div>
                     </div>
                 </div>
@@ -277,7 +278,7 @@ z-index: 9999;
     <!-- /bg_white -->
 
     <div class="parallax_section_1 jarallax" data-jarallax data-speed="0.2">
-        <img class="jarallax-img kenburns-2" src="img/hero_home_1.jpg" alt="">
+        <img class="jarallax-img kenburns-2" src="/img/hero_home_1.jpg" alt="">
         <div class="wrapper opacity-mask d-flex align-items-center justify-content-center text-center"
             data-opacity-mask="rgba(0, 0, 0, 0.5)">
             <div class="container">
@@ -291,7 +292,7 @@ z-index: 9999;
                             <div>
                                 <div class="box_overlay">
                                     <div class="pic">
-                                        <figure><img src="img/testimonial_1.jpg" alt="" class="img-circle">
+                                        <figure><img src="/img/testimonial_1.jpg" alt="" class="img-circle">
                                         </figure>
                                         <h4>Roberta<small>12 Oct</small></h4>
                                     </div>
@@ -305,7 +306,7 @@ z-index: 9999;
                             <div>
                                 <div class="box_overlay">
                                     <div class="pic">
-                                        <figure><img src="img/testimonial_1.jpg" alt="" class="img-circle">
+                                        <figure><img src="/img/testimonial_1.jpg" alt="" class="img-circle">
                                         </figure>
                                         <h4>Roberta<small>2 Nov</small></h4>
                                     </div>
@@ -319,7 +320,7 @@ z-index: 9999;
                             <div>
                                 <div class="box_overlay">
                                     <div class="pic">
-                                        <figure><img src="img/testimonial_1.jpg" alt="" class="img-circle">
+                                        <figure><img src="/img/testimonial_1.jpg" alt="" class="img-circle">
                                         </figure>
                                         <h4>Roberta<small>3 Dec</small></h4>
                                     </div>
@@ -338,53 +339,6 @@ z-index: 9999;
         </div>
     </div>
     <!-- /parallax_section_1-->
-
-
-    <div class="bg_white">
-        <div class="container margin_120_95">
-            <div class="title mb-3">
-                <small data-cue="slideInUp">Luxury experience</small>
-                <h2 data-cue="slideInUp" data-delay="200">News & Events</h2>
-            </div>
-            <div class="row justify-content-center home">
-                <div class="item col-xl-4 col-lg-6">
-                    <a href="news-post.html" class="box_contents" data-cue="slideInUp" data-delay="300">
-                        <figure><img src="img/blog-1.jpg" alt="" class="img-fluid"><em>11 Dec</em></figure>
-                        <div class="wrapper">
-                            <small>Travel<span></span></small>
-                            <h2>The vacation and travel Guide for experts in 2022</h2>
-                            <em>Read more</em>
-                        </div>
-                    </a>
-                </div>
-                <div class="item col-xl-4 col-lg-6">
-                    <a href="news-post.html" class="box_contents" data-cue="slideInUp" data-delay="400">
-                        <figure><img src="img/blog-3.jpg" alt="" class="img-fluid"><em>24 Dec</em></figure>
-                        <div class="wrapper">
-                            <small>Event<span></span></small>
-                            <h2>Yayoi Kusama: Infinity Mirror Rooms at Tate Modern</h2>
-                            <em>Read more</em>
-                        </div>
-                    </a>
-                </div>
-                <div class="item col-xl-4 col-lg-6">
-                    <a href="news-post.html" class="box_contents" data-cue="slideInUp" data-delay="500">
-                        <figure><img src="img/blog-2.jpg" alt="" class="img-fluid"><em>21 Dec</em></figure>
-                        <div class="wrapper">
-                            <small>Restaurant<span></span></small>
-                            <h2>Best Local Restaurant in 2022</h2>
-                            <em>Read more</em>
-                        </div>
-                    </a>
-                </div>
-            </div>
-            <!--/row -->
-            <p class="text-end"><a href="news-1.html" class="btn_1 outline mt-2" data-cue="slideInUp"
-                    data-delay="600">View all News</a></p>
-        </div>
-        <!--/container -->
-    </div>
-    <!--/bg_white -->
 
 
     <div class="container margin_120_95" id="booking_section">
