@@ -210,6 +210,9 @@ iframe {
         <!-- /container-->
     </div>
     <!-- /bg_white -->
+    <div class="container">
+        <img src="" alt="">
+    </div>
 
     <div class="parallax_section_1 jarallax" data-jarallax data-speed="0.2">
         <img class="jarallax-img kenburns-2" src="/img/hero_home_1.jpg" alt="">
