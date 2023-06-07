@@ -19,7 +19,7 @@
                             <li><a href="/" class="animated_link">Inicio</a></li>
                             <li><a href="/galeria" class="animated_link">Galería</a></li>
                             <li><a href="/direccion" class="animated_link">¿Cómo llegar?</a></li>
-                            <li><a href="/mapa" class="animated_link">Mapa</a></li>
+                            <li><a href="/#mapa" class="animated_link">Mapa</a></li>
                         </ul>
                     </nav>
                 </div>

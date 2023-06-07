@@ -1,82 +1,14 @@
-<style>
-.video-container {
-    width: 100vw;
-    height: 95vh;
-}
-
-iframe {
-    position: absolute;
-    top: 8%;
-    left: 50%;
-    width: 100vw;
-    height: 100vh;
-    transform: translate(-50%, -50%);
-    pointer-events: none;
-}
-
-#text {
-    position: absolute;
-    color: #FFFFFF;
-    left: 50%;
-    top: 50%;
-    transform: translate(-50%, -50%);
-}
-
-@media (min-aspect-ratio: 16/9) {
-  .video-container iframe {
-    height: 56.25vw;
-  }
-}
-@media (max-aspect-ratio: 16/9) {
-  .video-container iframe {
-    width: 177.78vh;
-  }
-
-  .video-container2 iframe {
-    width: 57.78vh;
-  }
-
-  iframe{
-    top: 4%;
-  }
-}
-
-
-@media (max-width: 844px) and (min-width: 484px) {
-    .video-container2 iframe {
-    width: 97.78vh;
-  }
-
- 
-}
-
-#text {
-    position: absolute;
-    color: #FFFFFF;
-    left: 50%;
-    top: 6%;
-    transform: translate(-50%, -50%);
-
-}
-
-.titulo {
-    background: rgba(0, 0, 0, 0.5);
-    padding: 10px;
-
-}
-</style>
-
 <main>
     <div class="video-container d-none d-md-block">
         <!-- <div id="overlay"></div> -->
-        <iframe
+        <iframe class="video"
             src="https://www.youtube.com/embed/OuFox1cjDGs?controls=0&autoplay=1&mute=1&playsinline=1&loop=1&playlist=OuFox1cjDGs"></iframe>
     </div>
 
 
     <div class="video-container video-container2 d-block d-md-none">
         <!-- <div id="overlay"></div> -->
-        <iframe
+        <iframe class="video"
             src="https://www.youtube.com/embed/Cln0R-x2rUw?controls=0&autoplay=1&mute=1&playsinline=1&loop=1&playlist=Cln0R-x2rUw"></iframe>
     </div>
 
@@ -112,11 +44,12 @@ iframe {
         </div>
         <div class="pinned-image pinned-image--medium">
             <div class="pinned-image__container" id="section_video">
-                <video loop="loop" muted="muted" id="video_home">
+                <!-- <video loop="loop" muted="muted" id="video_home">
                     <source src="/video/swimming_pool_2.mp4" type="video/mp4">
                     <source src="/video/swimming_pool_2.webm" type="video/webm">
                     <source src="/video/swimming_pool_2.ogv" type="video/ogg">
-                </video>
+                </video> -->
+                <img src="/img/banner.webp" alt="">
                 <div class="pinned-image__container-overlay"></div>
             </div>
             <div class="pinned_over_content">
@@ -210,8 +143,13 @@ iframe {
         <!-- /container-->
     </div>
     <!-- /bg_white -->
-    <div class="container">
-        <img src="" alt="">
+    <div id="mapa" style="margin-bottom: 3rem;"></div>
+    <div class="container p-5">
+        <div class="title text-center">
+            <!-- <small>About us</small> -->
+            <h2 style="color: #13304a;">Explora cada rincón. <br> ¡No hay tiempo que perder!</h2>
+        </div>
+        <img class="img-fluid" src="/img/mapa.jpg" alt="">
     </div>
 
     <div class="parallax_section_1 jarallax" data-jarallax data-speed="0.2">
@@ -268,7 +206,8 @@ iframe {
                                         <h4>FERNANDO DANIEL LOPEZ COSIO</h4>
                                     </div>
                                     <div class="comment">
-                                        "Maravilloso increíble para pasar un buen día en familia y amigos, precios accesibles, un lugar para todo el público."
+                                        "Maravilloso increíble para pasar un buen día en familia y amigos, precios
+                                        accesibles, un lugar para todo el público."
                                     </div>
                                 </div>
                                 <!-- End box_overlay -->
