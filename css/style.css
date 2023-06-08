@@ -66,6 +66,9 @@ Version: 1.0
   src: url("../fonts/sas-webfont.eot?51534236#iefix") format("embedded-opentype"), url("../fonts/sas-webfont.woff2?51534236") format("woff2"), url("../fonts/sas-webfont.woff?51534236") format("woff"), url("../fonts/sas-webfont.ttf?51534236") format("truetype"), url("../fonts/sas-webfont.svg?51534236#sas-webfont") format("svg");
   font-weight: normal;
   font-style: normal; }
+
+  @import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+
 .sas {
   font-family: "sas-webfont";
   font-style: normal;
@@ -468,7 +471,7 @@ h3,
 h4,
 .rs-team-1 .title,
 h5 {
-  font-family: "Pacifico", cursive;
+  font-family: 'Caveat', cursive;
   font-weight: 400;
   margin-top: 10px;
   margin-bottom: 20px; }
@@ -761,7 +764,7 @@ blockquote.quote {
   background-color: #F1C22E !important; }
 
 .bg-tertiary {
-  background-color: #16C3B0 !important; }
+  background-color: #00569e !important; }
 
 .bg-gray {
   background-color: #222222; }
@@ -913,7 +916,7 @@ blockquote.quote {
     font-family: FontAwesome;
     padding-top: 2px;
     position: absolute;
-    color: #16C3B0;
+    color: #00569e;
     left: 0;
     width: 30px;
     height: 30px;
@@ -1102,7 +1105,7 @@ SOSMED-ICON
     .sosmed-icon a.fb:hover {
       background-color: #fd3527; }
   .sosmed-icon a.tw {
-    background-color: #16C3B0; }
+    background-color: #00569e; }
     .sosmed-icon a.tw:hover {
       background-color: #13ac9b; }
   .sosmed-icon a.ig {
@@ -1562,7 +1565,7 @@ FACT
   .rs-funfact.bg-secondary .box-fun:before {
     background-color: #F1C22E; }
   .rs-funfact.bg-tertiary .box-fun:before {
-    background-color: #16C3B0; }
+    background-color: #00569e; }
   .rs-funfact.bg-quaternary .box-fun:before {
     background-color: #2DB3D9; }
   .rs-funfact .title {
@@ -1924,11 +1927,11 @@ TESTIMONIALS
     .rs-feature-box-1.bg-secondary .fa {
       background-color: #F1C22E; }
     .rs-feature-box-1.bg-secondary .btn, .rs-feature-box-1.bg-secondary .btn-primary, .rs-feature-box-1.bg-secondary .btn-secondary, .rs-feature-box-1.bg-secondary .btn-light, .rs-feature-box-1.bg-secondary .btn-ghost-light {
-      background-color: #16C3B0; }
+      background-color: #00569e; }
   .rs-feature-box-1.bg-tertiary {
-    background-color: #16C3B0; }
+    background-color: #00569e; }
     .rs-feature-box-1.bg-tertiary .fa {
-      background-color: #16C3B0; }
+      background-color: #00569e; }
     .rs-feature-box-1.bg-tertiary .btn, .rs-feature-box-1.bg-tertiary .btn-primary, .rs-feature-box-1.bg-tertiary .btn-secondary, .rs-feature-box-1.bg-tertiary .btn-light, .rs-feature-box-1.bg-tertiary .btn-ghost-light {
       background-color: #FD4D40; }
   .rs-feature-box-1:hover {
@@ -2889,8 +2892,9 @@ Back To Top Section
     color: #ffffff;
     line-height: 1; }
   .wrap-caption .caption-supheading {
-    font-family: "Pacifico", cursive;
-    color: #ff7300;
+    /* font-family: "Pacifico", cursive; */
+    font-family: "Open Sans", sans-serif;
+    color: #fff;
     margin-bottom: 0; }
   .wrap-caption .bg {
     background-color: rgba(153, 153, 153, 0.5);

@@ -8,20 +8,18 @@
                 <div class="col-sm-8 col-md-6">
                     <div class="info">
                         <div class="info-item">
-                            <i class="fa fa-phone"></i> +62 7144 3300
+                            <i class="fa fa-phone"></i> <a target="_blank" href="tel:+526241880519">624 188 0519</a>
                         </div>
                         <div class="info-item">
-                            <i class="fa fa-envelope-o"></i> <a href="mailto:support@kids.com"
-                                title="">support@kids.com</a>
+                            <i class="fa fa-envelope-o"></i> <a target="_blank" href="mailto:info@wildwetfun.com"
+                                title="">info@wildwetfun.com</a>
                         </div>
                     </div>
                 </div>
                 <div class="col-sm-4 col-md-6">
                     <div class="sosmed-icon pull-right d-inline-flex">
-                        <a href="#" class="fb"><i class="fa fa-facebook"></i></a>
-                        <a href="#" class="tw"><i class="fa fa-twitter"></i></a>
-                        <a href="#" class="ig"><i class="fa fa-instagram"></i></a>
-                        <a href="#" class="in"><i class="fa fa-linkedin"></i></a>
+                        <a target="_blank" href="https://www.facebook.com/WildWetFunWaterPark/?locale=es_LA" class="fb"><i class="fa fa-facebook"></i></a>
+                        <a target="_blank" href="https://www.instagram.com/wildwetfun/" class="ig"><i class="fa fa-instagram"></i></a>
                     </div>
                 </div>
             </div>
@@ -32,7 +30,7 @@
     <div class="navbar-main">
         <div class="container">
             <nav id="navbar-example" class="navbar navbar-expand-lg">
-                <a class="navbar-brand" href="index.html">
+                <a class="navbar-brand" href="/">
                     <img src="/images/logo.png?=1" alt="">
                 </a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown"
@@ -41,36 +39,23 @@
                 </button>
                 <div class="collapse navbar-collapse" id="navbarNavDropdown">
                     <ul class="navbar-nav ml-auto">
-                        <li class="nav-item active">
-                            <a class="nav-link" href="index.html">HOME</a>
+                        <li class="nav-item ">
+                            <a class="nav-link" href="/">Inicio</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="about.html">ABOUT US</a>
+                            <a class="nav-link" href="/#nosotros">Nosotros</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="classes.html">CLASSES</a>
+                            <a class="nav-link" href="/menu">Menú</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="teachers.html">TEACHERS</a>
-                        </li>
-                        <li class="nav-item dropdown dmenu">
-                            <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown"
-                                aria-haspopup="true" aria-expanded="false">
-                                PAGES
-                            </a>
-                            <div class="dropdown-menu">
-                                <a class="dropdown-item" href="page-gallery.html">GALLERY</a>
-                                <a class="dropdown-item" href="page-testimonials.html">TESTIMONIALS</a>
-                                <a class="dropdown-item" href="page-faq.html">FAQ</a>
-                                <a class="dropdown-item" href="page-404.html">404 PAGE</a>
-                                <a class="dropdown-item" href="page-events.html">EVENTS</a>
-                                <a class="dropdown-item" href="page-events-single.html">SINGLE EVENTS</a>
-                                <a class="dropdown-item" href="page-news.html">NEWS</a>
-                                <a class="dropdown-item" href="page-news-single.html">SINGLE NEWS</a>
-                            </div>
+                            <a class="nav-link" href="#mapa">Mapa</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="contact.html">CONTACT US</a>
+                            <a class="nav-link" href="#galeria">Galería</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#direccion">¿Cómo llegar?</a>
                         </li>
                     </ul>
                 </div>

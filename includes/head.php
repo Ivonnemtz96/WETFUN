@@ -6,18 +6,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Wild Wet Fun</title>
     <meta name="description"
-        content="KIDS is a clean, modern, and fully responsive Html Template. Take your Startup business website to the next level. It is designed for kindergarten, childcare, homeschooling, school, learning, playground businesses or any type of person or business who wants to showcase their work, services and professional way.">
+        content="Es el lugar perfecto en medio de la nada rodeado del desierto donde te encantará pasar horas de diversión en sus albercas y toboganes para todas las edades con precios increíbles.">
     <meta name="keywords"
-        content="business, care, childcare, children, clean, corporate, happykids, homeschool, kids, kindergarten, playground, responsive, school, learning">
-    <meta name="author" content="rometheme.net">
+        content="wet fun, park, parque acuático">
 
     <!-- ==============================================
 	Favicons
 	=============================================== -->
-    <link rel="shortcut icon" href="/images/favicon.ico">
-    <link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="/images/apple-touch-icon-72x72.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+    <link rel="shortcut icon" href="/images/favicon.png">
+    <link rel="apple-touch-icon" href="/images/favicon.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/images/favicon.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="images/favicon.png">
 
     <!-- ==============================================
 	CSS VENDOR
@@ -35,5 +34,8 @@
     <link rel="stylesheet" type="text/css" href="/css/style.css" />
 
     <script src="js/vendor/modernizr.min.js"></script>
+
+    <!-- magnific popup -->
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/jquery.magnific-popup/1.0.0/magnific-popup.css">
 
 </head>

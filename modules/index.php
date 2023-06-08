@@ -8,7 +8,8 @@
                 <div class="wrap-caption">
                     <h5 class="caption-supheading">Bienvenidos a</h5>
                     <h1 class="caption-heading">Wild Wet Fun <br><br></h1>
-                    <a href="#" class="btn btn-secondary" target="_blank">Ver ubicación</a>
+                    <a href="https://goo.gl/maps/2mrdCKrLJ5nuSoKf9" class="btn btn-secondary" target="_blank">Ver
+                        ubicación</a>
                 </div>
             </div>
         </div>
@@ -19,7 +20,8 @@
                 <div class="wrap-caption">
                     <h5 class="caption-supheading">¿Cansado de la rutina? </h5>
                     <h1 class="caption-heading">Somos el destino perfecto para escapar del calor <br><br></h1>
-                    <a href="#" class="btn btn-secondary" target="_blank">Ver ubicación</a>
+                    <a href="https://goo.gl/maps/2mrdCKrLJ5nuSoKf9" class="btn btn-secondary" target="_blank">Ver
+                        ubicación</a>
                 </div>
             </div>
         </div>
@@ -30,7 +32,8 @@
                 <div class="wrap-caption">
                     <h5 class="caption-supheading">Wild Wet Fun</h5>
                     <h1 class="caption-heading">¡Donde la diversión fluye como las olas! <br><br></h1>
-                    <a href="#" class="btn btn-secondary" target="_blank">Ver ubicación</a>
+                    <a href="https://goo.gl/maps/2mrdCKrLJ5nuSoKf9" class="btn btn-secondary" target="_blank">Ver
+                        ubicación</a>
                 </div>
             </div>
         </div>
@@ -54,7 +57,8 @@
                                     <h3>¡Nuevo horario!</h3>
                                     <p>Viernes, sábado y domingo: <br> 10:00am a 06:00pm <br> <br></p>
                                     <div class="spacer-10"></div>
-                                    <a href="#" class="btn" target="_blank">Ver ubicación</a>
+                                    <a href="https://goo.gl/maps/2mrdCKrLJ5nuSoKf9" class="btn" target="_blank">Ver
+                                        ubicación</a>
                                 </div>
                             </div>
                         </div>
@@ -71,7 +75,7 @@
                                         Zona Splash: 4:00 pm a 5:30 pm
                                     </p>
                                     <div class="spacer-10"></div>
-                                    <a href="#" class="btn">Ver ubicación</a>
+                                    <a href="https://goo.gl/maps/2mrdCKrLJ5nuSoKf9" class="btn">Ver ubicación</a>
                                 </div>
                             </div>
                         </div>
@@ -87,7 +91,7 @@
                                         No se permiten ningún tipo de alimento, bebida o vidrio. <br><br>
                                     </p>
                                     <div class="spacer-10"></div>
-                                    <a href="#" class="btn">Ver menú</a>
+                                    <a href="#test-modal" class="btn open-popup-link">Ver menú</a>
                                 </div>
                             </div>
                         </div>
@@ -97,6 +101,7 @@
         </div>
     </div>
 </div>
+<div class="container" id="nosotros" style="margin-bottom: 9rem;"></div>
 
 <!-- WELCOME TO KIDS -->
 <div class="section">
@@ -121,7 +126,7 @@
                         de diversión, risas y momentos refrescantes. ¡Te aseguramos que no te arrepentirás!
                     </p>
                     <div class="spacer-10"></div>
-                    <a href="#" class="btn btn-secondary">Ver ubicación</a>
+                    <a href="https://goo.gl/maps/2mrdCKrLJ5nuSoKf9" class="btn btn-secondary">Ver ubicación</a>
                     <div class="spacer-30"></div>
                 </div>
             </div>
@@ -174,7 +179,7 @@
         </div>
     </div>
 </div>
-
+<div id="mapa" style="margin-bottom: 4rem;"></div>
 <!-- OUR ARTICLES -->
 <div class="">
     <div class="content-wrap">
@@ -206,7 +211,8 @@
             <div class="row">
                 <div class="col-sm-12 col-md-12">
                     <div class="text-center">
-                        <a href="#" class="btn btn-primary">¿Cómo llegar?</a>
+                        <a href="https://goo.gl/maps/2mrdCKrLJ5nuSoKf9" target="_blank" class="btn btn-primary">¿Cómo
+                            llegar?</a>
                     </div>
                 </div>
             </div>
@@ -245,7 +251,7 @@
         </div>
     </div>
 </div>
-
+<div id="galeria" style="margin-bottom: 3rem;"></div>
 <!-- OUR GALLERY -->
 <div class="">
     <div class="content-wrap">
@@ -390,6 +396,30 @@
         </div>
     </div>
 </div>
+<div id="direccion" style="margin-bottom: 7rem;"></div>
+
+<section class="mapa">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12 col-md-12">
+                <p class="supheading text-center">A sólo 30 minutos de San José del Cabo ó 1 hora de Cabo San Lucas, ¡da
+                    clic al mapa y déjate llevar por Google Maps!</p>
+                <h2 class="section-heading text-center mb-5">
+                    ¿Cómo llegar?
+                </h2>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <iframe
+                    src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14654.16872046612!2d-109.7777221!3d23.332364!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af6f4943fe667b%3A0xc2b0b17b475cc995!2sWild%20Wet%20Fun%20Water%20Park!5e0!3m2!1ses-419!2smx!4v1686254417056!5m2!1ses-419!2smx"
+                    width="100%" height="650" style="border:0;" allowfullscreen="" loading="lazy"
+                    referrerpolicy="no-referrer-when-downgrade"></iframe>
+            </div>
+        </div>
+    </div>
+</section>
+
 
 
 <!-- OUR TESTIMONIALS -->
@@ -472,7 +502,7 @@
 </div>
 
 <!-- CTA -->
-<div class="section bg-tertiary">
+<div hidden class="section bg-tertiary">
     <div class="content-wrap py-5">
         <div class="container">
             <div class="row align-items-center">
@@ -491,4 +521,11 @@
             </div>
         </div>
     </div>
+</div>
+
+<div id="test-modal" class="container white-popup mfp-hide"
+    style="background-color: #fff; text-align: center; max-width: 60rem;">
+    <h1>Nuestro menú</h1>
+    <img class="img-fluid" src="/images/menu.png" style="margin-bottom: 1rem; height:45rem;" alt="">
+    <p><a class="popup-modal-dismiss  btn btn-primary mb-5" href="#">Regresar</a></p>
 </div>

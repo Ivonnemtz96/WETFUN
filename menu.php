@@ -7,7 +7,7 @@
 <body>
     <?php
         include("includes/header.php");
-        include("modules/galeria.php");
+        include("modules/menu.php");
         include("includes/redes.php");
         include("includes/footer.php");
         include("includes/scripts.php");
