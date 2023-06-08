@@ -1,223 +1,548 @@
-<main>
-    <div class="video-container d-none d-md-block">
-        <!-- <div id="overlay"></div> -->
-        <iframe class="video"
-            src="https://www.youtube.com/embed/OuFox1cjDGs?controls=0&autoplay=1&mute=1&playsinline=1&loop=1&playlist=OuFox1cjDGs"></iframe>
-    </div>
-
-
-    <div class="video-container video-container2 d-block d-md-none">
-        <!-- <div id="overlay"></div> -->
-        <iframe class="video"
-            src="https://www.youtube.com/embed/Cln0R-x2rUw?controls=0&autoplay=1&mute=1&playsinline=1&loop=1&playlist=Cln0R-x2rUw"></iframe>
-    </div>
-
-    <!-- <div id="text" class="text-center titulo">
-        <h1 style="color: #fff;">¡Obtén tus entradas! <br> Directamente en las taquillas del parque</h1>
-    </div> -->
-
-    <div class="pattern_2">
-        <div class="container margin_120_95" id="first_section">
-            <div class="row justify-content-between flex-lg-row-reverse align-items-center">
-                <div class="col-lg-5">
-                    <div class="parallax_wrapper">
-                        <img src="/img/home_2.jpg?=1" alt="" class="img-fluid rounded-img">
-                        <div data-cue="slideInUp" class="img_over"><span data-jarallax-element="-30"><img
-                                    src="/img/home_1.jpg?=1" alt="" class="rounded-img"></span></div>
-                    </div>
-                </div>
-                <div class="col-lg-5">
-                    <div class="intro">
-                        <div class="title">
-                            <!-- <small>About us</small> -->
-                            <h2 style="color: #13304a;">¡Prepárate para la diversión salvaje en Wild Wet Fun!</h2>
-                        </div>
-                        <!-- <p class="lead">Vivamus volutpat eros pulvinar velit laoreet, sit amet egestas erat dignissim.</p> -->
-                        <p>Somos el lugar perfecto para escapar del calor y sumergirte en un mundo lleno de
-                            diversión acuática. Ven y descubre por qué somos el parque favorito de todos los amantes del
-                            agua.</p>
-                        <p><em style="color: #13304a;">Wild Wet Fun</em></p>
-                    </div>
-                </div>
-            </div>
-            <!-- /Row -->
-        </div>
-        <div class="pinned-image pinned-image--medium">
-            <div class="pinned-image__container" id="section_video">
-                <!-- <video loop="loop" muted="muted" id="video_home">
-                    <source src="/video/swimming_pool_2.mp4" type="video/mp4">
-                    <source src="/video/swimming_pool_2.webm" type="video/webm">
-                    <source src="/video/swimming_pool_2.ogv" type="video/ogg">
-                </video> -->
-                <img src="/img/banner.webp" alt="">
-                <div class="pinned-image__container-overlay"></div>
-            </div>
-            <div class="pinned_over_content">
-                <div class="title white">
-                    <small data-cue="slideInUp" data-delay="200">¿Ya tienes tus boletos?</small>
-                    <h2 data-cue="slideInUp" data-delay="300">Obtén tus boletos<br> directamente en las taquillas del
-                        parque</h2>
+<!-- BANNER -->
+<div id="oc-fullslider" class="banner">
+    <div class="owl-carousel owl-theme full-screen">
+        <div class="item">
+            <img src="/images/dummy-img-1920x900.jpg" alt="Slider">
+            <div class="overlay-bg"></div>
+            <div class="container d-flex align-items-center">
+                <div class="wrap-caption">
+                    <h5 class="caption-supheading">Welcome to Kids</h5>
+                    <h1 class="caption-heading">Best Kindergarten at California</h1>
+                    <a href="#" class="btn btn-secondary">LEARN MORE</a>
                 </div>
             </div>
         </div>
-        <!-- /pinned content -->
-    </div>
-    <!-- /Pattern  -->
-
-
-
-    <div class="marquee">
-        <div class="track">
-            <div class="content">&nbsp;Wild Wet Fun Wild Wet Fun Wild Wet Fun Wild Wet Fun Wild Wet Fun</div>
-        </div>
-    </div>
-    <!-- /marquee-->
-
-    <div class="bg_white">
-        <div class="container margin_120_95">
-            <div class="row justify-content-between d-flex align-items-center add_bottom_90">
-                <div class="col-lg-6">
-                    <div class="pinned-image rounded_container pinned-image--small mb-4">
-                        <div class="pinned-image__container">
-                            <img src="/img/local_amenities_1.webp" alt="">
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-5">
-                    <div class="title">
-                        <small>Vive la adrenalina</small>
-                        <h3>Zona Extreme</h3>
-                        <p>
-                            ¡No te quedes con las ganas de disfrutar de esta atracción! <br>
-                            Horarios: <strong>11:00 am a 01:00 pm</strong>
-                        </p>
-                        <p><a href="/galeria" class="btn_1 mt-1 outline">Ver galería</a></p>
-                    </div>
+        <div class="item">
+            <img src="/images/dummy-img-1920x900-2.jpg" alt="Slider">
+            <div class="overlay-bg"></div>
+            <div class="container d-flex align-items-center">
+                <div class="wrap-caption">
+                    <h5 class="caption-supheading">Welcome to Kids</h5>
+                    <h1 class="caption-heading">Best Kindergarten at California</h1>
+                    <a href="#" class="btn btn-secondary">LEARN MORE</a>
                 </div>
             </div>
-            <!-- /row-->
-            <div class="row justify-content-between d-flex align-items-center">
-                <div class="col-lg-6 order-lg-2">
-                    <div class="pinned-image rounded_container pinned-image--small mb-4">
-                        <div class="pinned-image__container">
-                            <img src="/img/local_amenities_2.webp" alt="">
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-5 order-lg-1">
-                    <div class="title">
-                        <small>¡Prepárate para el mejor día de tu vida en Wild Wet Fun!</small>
-                        <h3>Zona Finisterra</h3>
-                        <p>
-                            ¡El aburrimiento se ahoga en nuestros toboganes! <br>
-                            Horarios: <strong>02:00 pm a 03:30 pm</strong>
-                        </p>
-                        <p><a href="/galeria" class="btn_1 mt-1 outline">Ver galería</a></p>
-                    </div>
+        </div>
+        <div class="item">
+            <img src="/images/dummy-img-1920x900-3.jpg" alt="Slider">
+            <div class="overlay-bg"></div>
+            <div class="container d-flex align-items-center">
+                <div class="wrap-caption">
+                    <h5 class="caption-supheading">Welcome to Kids</h5>
+                    <h1 class="caption-heading">Best Kindergarten at California</h1>
+                    <a href="#" class="btn btn-secondary">LEARN MORE</a>
                 </div>
             </div>
-            <!-- /row-->
-
-            <div class="row justify-content-between d-flex align-items-center add_bottom_90">
-                <div class="col-lg-6">
-                    <div class="pinned-image rounded_container pinned-image--small mb-4">
-                        <div class="pinned-image__container">
-                            <img src="/img/local_amenities_3.webp" alt="">
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-5">
-                    <div class="title">
-                        <small>Donde la diversión y el agua se unen en armonía</small>
-                        <h3>Zona Splash</h3>
-                        <p>
-                            Si te gusta el agua, la diversión y las carcajadas, entonces Wild Wet Fun es tu paraíso <br>
-                            Horarios: <strong>04:00 am a 05:30 pm</strong>
-                        </p>
-                        <p><a href="/galeria" class="btn_1 mt-1 outline">Ver galería</a></p>
-                    </div>
-                </div>
-            </div>
-            <!-- /row-->
         </div>
-        <!-- /container-->
     </div>
-    <!-- /bg_white -->
-    <div id="mapa" style="margin-bottom: 3rem;"></div>
-    <div class="container p-5">
-        <div class="title text-center">
-            <!-- <small>About us</small> -->
-            <h2 style="color: #13304a;">Explora cada rincón. <br> ¡No hay tiempo que perder!</h2>
-        </div>
-        <img class="img-fluid" src="/img/mapa.jpg" alt="">
-    </div>
+    <div class="custom-nav owl-nav"></div>
+</div>
 
-    <div class="parallax_section_1 jarallax" data-jarallax data-speed="0.2">
-        <img class="jarallax-img kenburns-2" src="/img/hero_home_1.jpg" alt="">
-        <div class="wrapper opacity-mask d-flex align-items-center justify-content-center text-center"
-            data-opacity-mask="rgba(0, 0, 0, 0.5)">
-            <div class="container">
-                <div class="row justify-content-center">
-                    <div class="col-lg-8">
-                        <div class="title white">
-                            <small class="mb-1">Opiniones</small>
-                            <h2>¿Qué dicen nuestros clientes?</h2>
-                        </div>
-                        <div class="carousel_testimonials owl-carousel owl-theme nav-dots-orizontal">
-                            <div>
-                                <div class="box_overlay">
-                                    <div class="pic">
-                                        <figure><img src="/img/testimonial_1.jpg" alt="" class="img-circle">
-                                        </figure>
-                                        <h4>Melany Urbina</h4>
-                                    </div>
-                                    <div class="comment">
-                                        "Me encantó un lugar muy limpio y agradable para estar con amigos o familia."
-                                    </div>
+<!-- SHORTCUT -->
+<div class="section services">
+    <div class="content-wrap">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12 col-md-12">
+                    <div class="row col-0 overlap no-gutters">
+                        <div class="col-sm-12 col-md-4 col-lg-4">
+                            <!-- BOX 1 -->
+                            <div class="rs-feature-box-1 bg-primary">
+                                <i class="fa fa-clock-o"></i>
+                                <div class="body">
+                                    <h4>Full Day Programs</h4>
+                                    <p>Sedut perspiciatis unde omnis iste natus error sit voluptatem accusantium.</p>
+                                    <div class="spacer-10"></div>
+                                    <a href="#" class="btn">LEARN MORE</a>
                                 </div>
-                                <!-- End box_overlay -->
-                            </div>
-                            <div>
-                                <div class="box_overlay">
-                                    <div class="pic">
-                                        <figure><img src="/img/testimonial_1.jpg" alt="" class="img-circle">
-                                        </figure>
-                                        <h4>Patricio Estrella</h4>
-                                    </div>
-                                    <div class="comment">
-                                        "Diversión a lo grande, solo como recomendación no vallan en domingo filas
-                                        largas para subirte a un tobogán, calor extremo, filas para un helado, para una
-                                        cerveza preparada., la lectura en el brazalete entre bajo su propio riesgo no se
-                                        si es por marketing o por deslindar cual quier responsabilidad.
-                                        En comida el cordon blue sigue siendo mi favorito, el SASHIMI muy rico el
-                                        CEVICHE de pescando también muy rico
-                                        En el tobogán del torbellino (escuzado) se requiere de dos personas atentas para
-                                        ayuda al salir de la piscina en donde caes
-                                        Saludos."
-                                    </div>
-                                </div>
-                                <!-- End box_overlay -->
-                            </div>
-                            <div>
-                                <div class="box_overlay">
-                                    <div class="pic">
-                                        <figure><img src="/img/testimonial_1.jpg" alt="" class="img-circle">
-                                        </figure>
-                                        <h4>FERNANDO DANIEL LOPEZ COSIO</h4>
-                                    </div>
-                                    <div class="comment">
-                                        "Maravilloso increíble para pasar un buen día en familia y amigos, precios
-                                        accesibles, un lugar para todo el público."
-                                    </div>
-                                </div>
-                                <!-- End box_overlay -->
                             </div>
                         </div>
-                        <!-- End carousel_testimonials -->
+                        <div class="col-sm-12 col-md-4 col-lg-4">
+                            <!-- BOX 2 -->
+                            <div class="rs-feature-box-1 bg-secondary">
+                                <i class="fa fa-home"></i>
+                                <div class="body">
+                                    <h4>Full Day Programs</h4>
+                                    <p>Sedut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolore
+                                        mque laudantium</p>
+                                    <div class="spacer-10"></div>
+                                    <a href="#" class="btn">LEARN MORE</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-12 col-md-4 col-lg-4">
+                            <!-- BOX 3 -->
+                            <div class="rs-feature-box-1 bg-tertiary">
+                                <i class="fa fa-trophy"></i>
+                                <div class="body">
+                                    <h4>Full Day Programs</h4>
+                                    <p>Sedut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolore
+                                        mque laudantium</p>
+                                    <div class="spacer-10"></div>
+                                    <a href="#" class="btn">LEARN MORE</a>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <!-- /parallax_section_1-->
-</main>
+</div>
+
+<!-- WELCOME TO KIDS -->
+<div class="section">
+    <div class="content-wrap">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12 col-md-12 col-lg-6">
+                    <img src="/images/dummy-img-900x600.jpg" alt="" class="img-fluid img-border">
+                </div>
+                <div class="col-sm-12 col-md-12 col-lg-6">
+                    <h2 class="section-heading">
+                        Welcome to Kids
+                    </h2>
+                    <p>Teritatis et quasi architecto. Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+                        accusantium dolore mque laudantium, totam rem aperiam, eaque ipsa quae ab illo invent. Sed ut
+                        perspiciatis unde omnis iste natus error sitdolor sit amet, consectetuer adipiscing elit, sed
+                        diam nonummy nibh euismod. Praesent interdum est gravida vehicula est node maecenas loareet
+                        morbi a dosis luctus novum est praesent. Magna est consectetur interdum modest dictum.</p>
+                    <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolore mque
+                        laudantium, totam rem aperiam, eaque ipsa quae ab illo invent. </p>
+                    <div class="spacer-10"></div>
+                    <a href="#" class="btn btn-secondary">DISCOVER MORE</a>
+                    <div class="spacer-30"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- FUNFACT -->
+<div class="section bgi-overlay bgi-cover-center" data-background="/images/dummy-img-1920x900-2.jpg">
+    <div class="content-wrap">
+        <div class="container">
+            <div class="row">
+                <!-- Item 1 -->
+                <div class="col-sm-6 col-md-3">
+                    <div class="rs-funfact bg-primary">
+                        <div class="box-fun">
+                            <h2>852</h2>
+                        </div>
+                        <div class="title">Students</div>
+                    </div>
+                </div>
+                <!-- Item 2 -->
+                <div class="col-sm-6 col-md-3">
+                    <div class="rs-funfact bg-secondary">
+                        <div class="box-fun">
+                            <h2>125</h2>
+                        </div>
+                        <div class="title">Teachers</div>
+                    </div>
+                </div>
+                <!-- Item 3 -->
+                <div class="col-sm-6 col-md-3">
+                    <div class="rs-funfact bg-tertiary">
+                        <div class="box-fun">
+                            <h2>32</h2>
+                        </div>
+                        <div class="title">Class Rooms</div>
+                    </div>
+                </div>
+                <!-- Item 4 -->
+                <div class="col-sm-6 col-md-3">
+                    <div class="rs-funfact bg-quaternary">
+                        <div class="box-fun">
+                            <h2>15</h2>
+                        </div>
+                        <div class="title">Bus Schools</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- OUR ARTICLES -->
+<div class="">
+    <div class="content-wrap">
+        <div class="container">
+
+            <div class="row">
+                <div class="col-sm-12 col-md-12">
+                    <p class="supheading text-center">Our Programs</p>
+                    <h2 class="section-heading text-center mb-5">
+                        Popular Classes
+                    </h2>
+                </div>
+            </div>
+
+            <div class="row mt-4">
+
+                <!-- Item 1 -->
+                <div class="col-sm-12 col-md-12 col-lg-4">
+                    <div class="rs-class-box mb-5">
+                        <div class="media-box">
+                            <img src="/images/dummy-img-600x400.jpg" alt="" class="img-fluid">
+                        </div>
+                        <div class="body-box">
+                            <div class="class-name">
+                                <div class="title">Drawing Classes</div>
+                                <div class="price">$20</div>
+                            </div>
+                            <div class="open-class">Open Class : <span>08:00 am - 10:00 am</span></div>
+                            <p>We provide high quality design at vero eos et accusamus et iusto odio dignissimos ducimus
+                                qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores...</p>
+                            <div class="detail">
+                                <div class="age col">Age 2-5 years</div>
+                                <div class="size col">Class Size 20</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Item 2 -->
+                <div class="col-sm-12 col-md-12 col-lg-4">
+                    <div class="rs-class-box mb-5">
+                        <div class="media-box">
+                            <img src="/images/dummy-img-600x400.jpg" alt="" class="img-fluid">
+                        </div>
+                        <div class="body-box">
+                            <div class="class-name">
+                                <div class="title">Gaming Classes</div>
+                                <div class="price">$20</div>
+                            </div>
+                            <div class="open-class">Open Class : <span>08:00 am - 10:00 am</span></div>
+                            <p>We provide high quality design at vero eos et accusamus et iusto odio dignissimos ducimus
+                                qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores...</p>
+                            <div class="detail">
+                                <div class="age col">Age 2-5 years</div>
+                                <div class="size col">Class Size 20</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Item 3 -->
+                <div class="col-sm-12 col-md-12 col-lg-4">
+                    <div class="rs-class-box mb-5">
+                        <div class="media-box">
+                            <img src="/images/dummy-img-600x400.jpg" alt="" class="img-fluid">
+                        </div>
+                        <div class="body-box">
+                            <div class="class-name">
+                                <div class="title">Learning Classes</div>
+                                <div class="price">$20</div>
+                            </div>
+                            <div class="open-class">Open Class : <span>08:00 am - 10:00 am</span></div>
+                            <p>We provide high quality design at vero eos et accusamus et iusto odio dignissimos ducimus
+                                qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores...</p>
+                            <div class="detail">
+                                <div class="age col">Age 2-5 years</div>
+                                <div class="size col">Class Size 20</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="row">
+                <div class="col-sm-12 col-md-12">
+                    <div class="text-center">
+                        <a href="#" class="btn btn-primary">SEE MORE CLASSES</a>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+<!-- WHY CHOOSE US -->
+<div class="section bgi-repeat" data-background="/images/dummy-img-1920x900-3.jpg">
+    <div class="content-wrap pb-0">
+        <div class="container">
+            <div class="row align-items-end">
+                <div class="col-sm-12 col-md-12 col-lg-7">
+                    <p class="supheading">Why Choose Us</p>
+                    <h2 class="section-heading">
+                        Best Kindergarten
+                    </h2>
+                    <p class="text-white">Dolor sit amet, dolor gravida placerat liberolorem ipsum dolor consectetur
+                        adipiscing elit, sed do eiusmod. Dolor sit amet consectetuer adipiscing elit, sed diam nonummy
+                        nibh euismod. Praesent interdum est gravida vehicula est node maecenas loareet morbi a dosis
+                        luctus novum est praesent. Praesent interdum est gravida vehicula est node maecenas loareet
+                        morbi a dosis luctus novum est praesent.</p>
+                    <p class="p-check text-white">100% education, for your kids, consectetuer adipiscing elit, sed diam
+                        nonummy nibh euismod. Dolor sit amet, dolor gravida placerat liberolorem ipsum dolor consectetur
+                        adipiscing elit, sed do eiusmod.</p>
+                    <p class="p-check text-white">More programs activities, sed diam nonummy nibh euismod. Lorem ipsum
+                        dolor sit amet.</p>
+                    <p class="p-check text-white">More benefit nonummy nibh euismod. Lorem ipsum dolor sit amet,
+                        consectetuer adipiscing elit.</p>
+                    <div class="spacer-90"></div>
+                </div>
+                <div class="col-sm-12 col-md-12 col-lg-5">
+                    <img src="/images/dummy-img-600x700.jpg" alt="" class="img-fluid">
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+<!-- OUR GALLERY -->
+<div class="">
+    <div class="content-wrap">
+        <div class="container">
+
+            <div class="row">
+                <div class="col-sm-12 col-md-12">
+                    <p class="supheading text-center">Our Gallery</p>
+                    <h2 class="section-heading text-center mb-5">
+                        Moment from kids
+                    </h2>
+                </div>
+            </div>
+
+            <div class="row popup-gallery gutter-5">
+                <!-- Item 1 -->
+                <div class="col-xs-12 col-md-6 col-lg-4">
+                    <div class="box-gallery">
+                        <a href="/images/dummy-img-600x400.jpg" title="Gallery #1">
+                            <img src="/images/dummy-img-600x400.jpg" alt="" class="img-fluid">
+                            <div class="project-info">
+                                <div class="project-icon">
+                                    <span class="fa fa-search"></span>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <!-- Item 1 -->
+                <div class="col-xs-12 col-md-6 col-lg-4">
+                    <div class="box-gallery">
+                        <a href="/images/dummy-img-600x400.jpg" title="Gallery #2">
+                            <img src="/images/dummy-img-600x400.jpg" alt="" class="img-fluid">
+                            <div class="project-info">
+                                <div class="project-icon">
+                                    <span class="fa fa-search"></span>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <!-- Item 1 -->
+                <div class="col-xs-12 col-md-6 col-lg-4">
+                    <div class="box-gallery">
+                        <a href="/images/dummy-img-600x400.jpg" title="Gallery #3">
+                            <img src="/images/dummy-img-600x400.jpg" alt="" class="img-fluid">
+                            <div class="project-info">
+                                <div class="project-icon">
+                                    <span class="fa fa-search"></span>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <!-- Item 2 -->
+                <div class="col-xs-12 col-md-6 col-lg-4">
+                    <div class="box-gallery">
+                        <a href="/images/dummy-img-600x400.jpg" title="Gallery #4">
+                            <img src="/images/dummy-img-600x400.jpg" alt="" class="img-fluid">
+                            <div class="project-info">
+                                <div class="project-icon">
+                                    <span class="fa fa-search"></span>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <!-- Item 3 -->
+                <div class="col-xs-12 col-md-6 col-lg-4">
+                    <div class="box-gallery">
+                        <a href="/images/dummy-img-600x400.jpg" title="Gallery #5">
+                            <img src="/images/dummy-img-600x400.jpg" alt="" class="img-fluid">
+                            <div class="project-info">
+                                <div class="project-icon">
+                                    <span class="fa fa-search"></span>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <!-- Item 4 -->
+                <div class="col-xs-12 col-md-6 col-lg-4">
+                    <div class="box-gallery">
+                        <a href="/images/dummy-img-600x400.jpg" title="Gallery #6">
+                            <img src="/images/dummy-img-600x400.jpg" alt="" class="img-fluid">
+                            <div class="project-info">
+                                <div class="project-icon">
+                                    <span class="fa fa-search"></span>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+</div>
+
+<!-- OUR EVENTS -->
+<div class="section bgi-cover-center" data-background="/images/dummy-img-1920x900-2.jpg">
+    <div class="content-wrap">
+        <div class="container">
+
+            <div class="row">
+                <div class="col-sm-12 col-md-12">
+                    <p class="supheading text-center">Our Events</p>
+                    <h2 class="section-heading text-center mb-5">
+                        Don't miss our event
+                    </h2>
+                </div>
+            </div>
+
+            <div class="row mt-4">
+
+                <!-- Item 1 -->
+                <div class="col-sm-12 col-md-12 col-lg-4 mb-5">
+                    <div class="rs-news-1">
+                        <div class="media-box">
+                            <img src="/images/dummy-img-600x400.jpg" alt="" class="img-fluid">
+                        </div>
+                        <div class="body-box">
+                            <div class="title">English Day on Carfree day</div>
+                            <div class="meta-date">March 19, 2016 / 08:00 am - 10:00 am</div>
+                            <p>We provide high quality design at vero eos et accusamus et iusto odio dignissimos ducimus
+                                qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores...</p>
+                            <div class="text-center">
+                                <a href="page-events-single.html" class="btn btn-primary">JOIN NOW</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Item 2 -->
+                <div class="col-sm-12 col-md-12 col-lg-4 mb-5">
+                    <div class="rs-news-1">
+                        <div class="media-box">
+                            <img src="/images/dummy-img-600x400.jpg" alt="" class="img-fluid">
+                        </div>
+                        <div class="body-box">
+                            <div class="title">Play & Study with Mrs. Smith</div>
+                            <div class="meta-date">March 19, 2016 / 08:00 am - 10:00 am</div>
+                            <p>We provide high quality design at vero eos et accusamus et iusto odio dignissimos ducimus
+                                qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores...</p>
+                            <div class="text-center">
+                                <a href="page-events-single.html" class="btn btn-primary">JOIN NOW</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Item 3 -->
+                <div class="col-sm-12 col-md-12 col-lg-4 mb-5">
+                    <div class="rs-news-1">
+                        <div class="media-box">
+                            <img src="/images/dummy-img-600x400.jpg" alt="" class="img-fluid">
+                        </div>
+                        <div class="body-box">
+                            <div class="title">Drawing at City Park</div>
+                            <div class="meta-date">March 19, 2016 / 08:00 am - 10:00 am</div>
+                            <p>We provide high quality design at vero eos et accusamus et iusto odio dignissimos ducimus
+                                qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores...</p>
+                            <div class="text-center">
+                                <a href="page-events-single.html" class="btn btn-primary">JOIN NOW</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+</div>
+
+<!-- OUR TESTIMONIALS -->
+<div class="section">
+    <div class="content-wrap">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12 col-md-12">
+                    <p class="supheading text-center">Our Testimonials</p>
+                    <h2 class="section-heading text-center mb-5">
+                        What parents say
+                    </h2>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-12 col-md-10 offset-md-1">
+                    <div class="text-center text-secondary mb-3"><i class="fa fa-quote-right fa-3x"></i></div>
+                    <div id="testimonial" class="owl-carousel owl-theme">
+                        <div class="item">
+                            <div class="rs-box-testimony">
+                                <div class="quote-box">
+                                    <blockquote>
+                                        Teritatis et quasi architecto. Sed ut perspiciatis unde omnis iste natus error
+                                        sit voluptatem accusantium dolore mque laudantium, totam rem aperiam
+                                    </blockquote>
+                                    <div class="media">
+                                        <img src="/images/dummy-img-400x400.jpg" alt="" class="rounded-circle">
+                                    </div>
+                                    <p class="quote-name">
+                                        Johnathan Doel <span>Businessman</span>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="rs-box-testimony">
+                                <div class="quote-box">
+                                    <blockquote>
+                                        Teritatis et quasi architecto. Sed ut perspiciatis unde omnis iste natus error
+                                        sit voluptatem accusantium dolore mque laudantium, totam rem aperiam
+                                    </blockquote>
+                                    <div class="media">
+                                        <img src="/images/dummy-img-400x400.jpg" alt="" class="rounded-circle">
+                                    </div>
+                                    <p class="quote-name">
+                                        Johnathan Doel <span>CEO Buka Kreasi</span>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- CTA -->
+<div class="section bg-tertiary">
+    <div class="content-wrap py-5">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-sm-12 col-md-12">
+                    <div class="cta-1">
+                        <div class="body-text mb-3">
+                            <h3 class="my-1 text-secondary">Let's join the best kindergarten now!</h3>
+                            <p class="uk18 mb-0 text-white">We provide high standar clean website for your business
+                                solutions</p>
+                        </div>
+                        <div class="body-action">
+                            <a href="contact.html" class="btn btn-primary mt-3">CONTACT US</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

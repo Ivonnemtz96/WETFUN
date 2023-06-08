@@ -4,7 +4,7 @@
     include("includes/head.php");
 ?>
 
-<body class="datepicker_mobile_full">
+<body>
     <?php
         include("includes/header.php");
         include("modules/index.php");
