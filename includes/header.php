@@ -33,7 +33,7 @@
         <div class="container">
             <nav id="navbar-example" class="navbar navbar-expand-lg">
                 <a class="navbar-brand" href="index.html">
-                    <img src="/images/logo.png" alt="">
+                    <img src="/images/logo.png?=1" alt="">
                 </a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown"
                     aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
