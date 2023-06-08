@@ -109,7 +109,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-12 col-md-12 col-lg-6">
-                    <img src="/images/dummy-img-900x600.jpg?=1" alt="" class="img-fluid img-border">
+                    <img src="/images/12.webp?=1" alt="" class="img-fluid img-border">
                 </div>
                 <div class="col-sm-12 col-md-12 col-lg-6">
                     <h2 class="section-heading">
@@ -222,13 +222,13 @@
 </div>
 
 <!-- WHY CHOOSE US -->
-<div class="section bgi-repeat" data-background="/images/dummy-img-1920x900-4.jpg?=2">
+<div class="section bgi-repeat" data-background="/images/11.webp?=2">
     <div class="content-wrap pb-0">
         <div class="container">
             <div class="row align-items-end">
                 <div class="col-sm-12 col-md-12 col-lg-7">
                     <p class="supheading" style="color: #fff;">¿Porqué elegirnos?</p>
-                    <h2 class="section-heading">
+                    <h2 class="section-heading text-white">
                         Wild Wet Fun Water Park
                     </h2>
                     <p class="text-white">
@@ -244,7 +244,7 @@
                     <div class="spacer-90"></div>
                 </div>
                 <div class="col-sm-12 col-md-12 col-lg-5">
-                    <img src="/images/dummy-img-600x700.jpg?=1" alt="" class="img-fluid">
+                    <img src="/images/dummy-img-600x700.jpg?=2" alt="" class="img-fluid">
                 </div>
             </div>
 

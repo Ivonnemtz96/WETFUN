@@ -59,7 +59,7 @@ Version: 1.0
  * 8. - RESPONSIVE
  * -----------------------------------------------------------------------------
  */
-@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,700|Pacifico");
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,700|Caveat");
 @font-face {
   font-family: 'sas-webfont';
   src: url("../fonts/sas-webfont.eot?51534236");
@@ -471,7 +471,7 @@ h3,
 h4,
 .rs-team-1 .title,
 h5 {
-  font-family: 'Caveat', cursive;
+  font-family: 'Caveat',cursive;
   font-weight: 400;
   margin-top: 10px;
   margin-bottom: 20px; }
@@ -639,7 +639,7 @@ ul {
   margin-top: -20px;
   margin-bottom: 30px;
   color: #666666;
-  font-family: "Pacifico", cursive;
+  font-family: "Caveat", cursive;
   font-size: 18px; }
   .subheading.text-center {
     width: 60%;
@@ -648,7 +648,7 @@ ul {
 
 .title-heading {
   font-size: 24px;
-  font-family: "Pacifico", cursive;
+  font-family: "Caveat", cursive;
   font-weight: 700; }
 
 .section-border {
@@ -658,7 +658,7 @@ ul {
   font-family: "Open Sans", sans-serif; }
 
 .font-secondary {
-  font-family: "Pacifico", cursive; }
+  font-family: "Caveat", cursive; }
 
 .bgi-cover-center {
   background-size: cover;
@@ -710,7 +710,7 @@ blockquote.quote {
   background-color: transparent;
   margin: 0 0 20px;
   border-left: 0;
-  font-family: "Pacifico", cursive;
+  font-family: "Caveat", cursive;
   font-style: italic;
   font-size: 24px;
   color: #ffffff; }
@@ -1146,7 +1146,7 @@ FEATURE ICON
     top: 0;
     right: 20px;
     font-size: 72px;
-    font-family: "Pacifico", cursive;
+    font-family: "Caveat", cursive;
     font-weight: 700;
     opacity: 0.15;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=15)";
@@ -1593,7 +1593,7 @@ CLASSES
     justify-content: space-between; }
   .rs-class-box .title {
     font-size: 18px;
-    font-family: "Pacifico", cursive;
+    font-family: "Caveat", cursive;
     color: #FD4D40; }
   .rs-class-box .price {
     font-size: 24px;
@@ -1733,7 +1733,7 @@ BOX IMAGE
       -ms-border-radius: 50%;
       border-radius: 50%;
       font-size: 24px;
-      font-family: "Pacifico", cursive; }
+      font-family: "Caveat", cursive; }
   .box-image-6 img {
     width: 80%;
     height: 80%;
@@ -1979,7 +1979,7 @@ TESTIMONIALS
     font-size: 45px;
     color: #e6e6e6; }
   .rs-experience .position {
-    font-family: "Pacifico", cursive; }
+    font-family: "Caveat", cursive; }
   .rs-experience .title {
     color: #FD4D40;
     margin-top: 5px; }
@@ -2597,7 +2597,7 @@ Back To Top Section
       padding: 14px 25px;
       color: #FD4D40;
       font-weight: 700;
-      font-family: "Pacifico", cursive;
+      font-family: "Caveat", cursive;
       text-transform: none; }
       .portfolio_filter li a.active {
         color: #999999; }
@@ -2648,7 +2648,7 @@ Back To Top Section
   font-size: 36px;
   color: #FD4D40;
   font-weight: 700;
-  font-family: "Pacifico", cursive; }
+  font-family: "Caveat", cursive; }
 
 .navbar-main {
   font-family: "Open Sans", sans-serif;
@@ -2892,7 +2892,7 @@ Back To Top Section
     color: #ffffff;
     line-height: 1; }
   .wrap-caption .caption-supheading {
-    /* font-family: "Pacifico", cursive; */
+    /* font-family: "Caveat", cursive; */
     font-family: "Open Sans", sans-serif;
     color: #fff;
     margin-bottom: 0; }
@@ -2901,7 +2901,7 @@ Back To Top Section
     padding: 20px; }
   .wrap-caption p {
     font-size: 24px;
-    font-family: "Pacifico", cursive;
+    font-family: "Caveat", cursive;
     color: #ffffff;
     padding: 0; }
     .wrap-caption p.bg {
@@ -3388,7 +3388,7 @@ Back To Top Section
     margin-bottom: 0;
     position: relative;
     color: #F1C22E;
-    font-family: "Pacifico", cursive; }
+    font-family: "Caveat", cursive; }
   .footer .footer-item .footer-sosmed {
     margin-top: 50px;
     margin-bottom: 30px;
