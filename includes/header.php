@@ -49,13 +49,13 @@
                             <a class="nav-link" href="/menu">Menú</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#mapa">Mapa</a>
+                            <a class="nav-link" href="/#mapa">Mapa</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#galeria">Galería</a>
+                            <a class="nav-link" href="/#galeria">Galería</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#direccion">¿Cómo llegar?</a>
+                            <a class="nav-link" href="/#direccion">¿Cómo llegar?</a>
                         </li>
                     </ul>
                 </div>

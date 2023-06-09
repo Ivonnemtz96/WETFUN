@@ -26,12 +26,12 @@
             </div>
         </div>
         <div class="item">
-            <img src="/images/dummy-img-1920x900-3.webp" alt="Slider">
+            <img src="/images/dummy-img-1920x900-3.webp?=1" alt="Slider">
             <div class="overlay-bg"></div>
             <div class="container d-flex align-items-center">
                 <div class="wrap-caption">
                     <h5 class="caption-supheading">Wild Wet Fun</h5>
-                    <h1 class="caption-heading">¡Donde la diversión fluye como las olas! <br><br></h1>
+                    <h1 class="caption-heading">¡Donde la diversión fluye como el agua! <br><br></h1>
                     <a href="https://goo.gl/maps/2mrdCKrLJ5nuSoKf9" class="btn btn-secondary" target="_blank">Ver
                         ubicación</a>
                 </div>
@@ -51,11 +51,11 @@
                         <div class="col-sm-12 col-md-4 col-lg-4">
                             <!-- BOX 1 -->
                             <div class="rs-feature-box-1 bg-primary">
-                                <i class="fa fa-clock-o"></i>
+                                <i class="fa fa-clock"></i>
                                 <div class="body">
                                     <h4>Horarios</h4>
-                                    <h3>¡Nuevo horario!</h3>
-                                    <p>Viernes, sábado y domingo: <br> 10:00am a 06:00pm <br> <br></p>
+                                    <h3>¡Visítanos!</h3>
+                                    <p>Viernes, sábado y domingo: <br> 10:00am a 06:00pm <br> <br><br></p>
                                     <div class="spacer-10"></div>
                                     <a href="https://goo.gl/maps/2mrdCKrLJ5nuSoKf9" class="btn" target="_blank">Ver
                                         ubicación</a>
@@ -65,14 +65,13 @@
                         <div class="col-sm-12 col-md-4 col-lg-4">
                             <!-- BOX 2 -->
                             <div class="rs-feature-box-1 bg-secondary">
-                                <i class="fa fa-clock-o"></i>
+                                <i class="fa fa-clock"></i>
                                 <div class="body">
-                                    <h4>Horario de toboganes</h4>
-                                    <h3>¡No te quedes con las ganas!</h3>
+                                    <h4>Ubicación</h4>
+                                    <h3>Encuéntranos aquí</h3>
                                     <p>
-                                        Zona Extreme: 11:00 am a 1:00 pm <br>
-                                        Zona Finisterra: 2:00 pm a 3:30 pm <br>
-                                        Zona Splash: 4:00 pm a 5:30 pm
+                                        Nuestra ubicación es por toda la Carretera Transpeninsular hasta Caduaño,
+                                        aproximadamente a 20min. Desde San José del Cabo.
                                     </p>
                                     <div class="spacer-10"></div>
                                     <a href="https://goo.gl/maps/2mrdCKrLJ5nuSoKf9" class="btn">Ver ubicación</a>
@@ -85,10 +84,12 @@
                                 <i class="fa fa-exclamation-circle"></i>
                                 <!-- <i class="fa fa-utensils"></i> <i class="fa-regular fa-utensils-slash" style="color: #fefffe;"></i> -->
                                 <div class="body">
-                                    <h4>Restricciones</h4>
-                                    <h3>Recuerda que...</h3>
+                                    <h4>Precios</h4>
+                                    <h3>¡Te Esperamos!</h3>
                                     <p>
-                                        No se permiten ningún tipo de alimento, bebida o vidrio. <br><br>
+                                        Adultos $330 MXN <br>
+                                        Niños $270 MXN<br>
+                                        <strong>*Los niños aplican a partir de los 3 años hasta los 10 años.</strong>
                                     </p>
                                     <div class="spacer-10"></div>
                                     <a href="#test-modal" class="btn open-popup-link">Ver menú</a>
@@ -101,11 +102,19 @@
         </div>
     </div>
 </div>
-<div class="container" id="nosotros" style="margin-bottom: 9rem;"></div>
+<div class="container" id="nosotros" style="margin-bottom: 3rem;"></div>
 
 <!-- WELCOME TO KIDS -->
 <div class="section">
     <div class="content-wrap">
+        <div class="row">
+            <div class="col-sm-12 col-md-12">
+                <!-- <p class="supheading text-center">No te pierdas ni un solo tobogán</p> -->
+                <h2 class="section-heading text-center mb-5">
+                    ¡Conócenos!
+                </h2>
+            </div>
+        </div>
         <div class="container">
             <div class="row">
                 <div class="col-sm-12 col-md-12 col-lg-6">
@@ -121,9 +130,19 @@
 
                     </p>
                     <p>
-                        ¿Buscas un lugar donde la diversión fluya como el agua? No esperes más. Ven a disfrutar de un
-                        día lleno
-                        de diversión, risas y momentos refrescantes. ¡Te aseguramos que no te arrepentirás!
+                        Con atracciones para los pequeños y no tan pequeños del hogar, tendrás todo un oasis lleno de
+                        buenos momentos y grandes espacios rodeados de naturaleza asegurando la máxima diversión. <br>
+                        <br>
+
+                        ¡Hay espacio para toda la familia! <br><br>
+
+                        <strong>Te invitamos a disfrutar de todos nuestros toboganes:</strong> <br>
+
+                        Zona Extreme: 11:00 am a 1:00 pm <br>
+
+                        Zona Finisterra: 2:00 pm a 3:30 pm <br>
+
+                        Zona Splash: 4:00 pm a 5:30 pm
                     </p>
                     <div class="spacer-10"></div>
                     <a href="https://goo.gl/maps/2mrdCKrLJ5nuSoKf9" class="btn btn-secondary">Ver ubicación</a>
@@ -152,7 +171,7 @@
                 <div class="col-sm-6 col-md-3">
                     <div class="rs-funfact bg-secondary">
                         <div class="box-fun">
-                            <h2>+300</h2>
+                            <h2>980</h2>
                         </div>
                         <div class="title">Clientes</div>
                     </div>
@@ -170,7 +189,7 @@
                 <div class="col-sm-6 col-md-3">
                     <div class="rs-funfact bg-quaternary">
                         <div class="box-fun">
-                            <h2>30</h2>
+                            <h2>20</h2>
                         </div>
                         <div class="title">Minutos de San José</div>
                     </div>
@@ -227,20 +246,21 @@
         <div class="container">
             <div class="row align-items-end">
                 <div class="col-sm-12 col-md-12 col-lg-7">
-                    <p class="supheading" style="color: #fff;">¿Porqué elegirnos?</p>
+                    <p class="supheading" style="color: #fff;">¿Día Especial?</p>
                     <h2 class="section-heading text-white">
-                        Wild Wet Fun Water Park
+                        ¡Festeja con Nosotros!
                     </h2>
                     <p class="text-white">
-                        Es mucho más que un parque acuático, es una experiencia que despierta tus sentidos.
-                        Siente la adrenalina mientras te deslizas por nuestros toboganes de alta velocidad, disfruta de
-                        la diversión en nuestras piscinas de olas y relájate en nuestras áreas de descanso rodeadas de
-                        un entorno tropical.
+                        Tu gran día puede ser aún más espectacular… <br>
+
+                        Si quieres festejar en un lugar único, tienes la opción perfecta justo aquí. <br><br>
+
+                        Para las celebraciones está permitido:
                     </p>
-                    <p class="p-check text-white">Excelentes opciones de comida y bebida.</p>
-                    <p class="p-check text-white">Personal amable y atento.</p>
-                    <p class="p-check text-white">Entorno familiar.</p>
-                    <p class="p-check text-white">Variedad de atracciones.</p>
+                    <p class="p-check text-white">Pastel.</p>
+                    <p class="p-check text-white">Piñata.</p>
+                    <p class="p-check text-white">Velita (no chispas).</p>
+                    <p class="p-check text-white">Bolsitas de dulces (no chicles).</p>
                     <div class="spacer-90"></div>
                 </div>
                 <div class="col-sm-12 col-md-12 col-lg-5">
@@ -360,7 +380,19 @@
                         </a>
                     </div>
                 </div>
-
+                <!-- Item 4 -->
+                <div class="col-xs-12 col-md-6 col-lg-4">
+                    <div class="box-gallery">
+                        <a href="/images/07.jpg" title="Galería #9">
+                            <img src="/images/07.jpg" alt="" class="img-fluid">
+                            <div class="project-info">
+                                <div class="project-icon">
+                                    <span class="fa fa-search"></span>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
 
                 <!-- Item 4 -->
                 <div class="col-xs-12 col-md-6 col-lg-4">
@@ -377,19 +409,7 @@
                 </div>
 
 
-                <!-- Item 4 -->
-                <div class="col-xs-12 col-md-6 col-lg-4">
-                    <div class="box-gallery">
-                        <a href="/images/07.jpg" title="Galería #9">
-                            <img src="/images/07.jpg" alt="" class="img-fluid">
-                            <div class="project-info">
-                                <div class="project-icon">
-                                    <span class="fa fa-search"></span>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                </div>
+
 
             </div>
 
@@ -402,10 +422,11 @@
     <div class="container">
         <div class="row">
             <div class="col-sm-12 col-md-12">
-                <p class="supheading text-center">A sólo 30 minutos de San José del Cabo ó 1 hora de Cabo San Lucas, ¡da
-                    clic al mapa y déjate llevar por Google Maps!</p>
+                <p class="supheading text-center">A sólo 30 minutos de San José del Cabo ó 1 hora de Cabo San Lucas.
+                    <br> ¡Da click a Google Maps y déjate llevar!
+                </p>
                 <h2 class="section-heading text-center mb-5">
-                    ¿Cómo llegar?
+                    Te Esperamos
                 </h2>
             </div>
         </div>
@@ -422,106 +443,175 @@
 
 
 
-<!-- OUR TESTIMONIALS -->
+<!-- FAQS -->
 <div class="section">
     <div class="content-wrap">
         <div class="container">
             <div class="row">
-                <div class="col-sm-12 col-md-12">
-                    <p class="supheading text-center">¿Qué opinan nuestros clientes?</p>
-                    <h2 class="section-heading text-center mb-5">
-                        Opiniones
-                    </h2>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-sm-12 col-md-10 offset-md-1">
-                    <div class="text-center text-secondary mb-3"><i class="fa fa-quote-right fa-3x"></i></div>
-                    <div id="testimonial" class="owl-carousel owl-theme">
-                        <div class="item">
-                            <div class="rs-box-testimony">
-                                <div class="quote-box">
-                                    <blockquote>
-                                        Muy buen servicio y las instalaciones super padres
-                                    </blockquote>
-                                    <div class="media">
-                                        <img src="/images/dummy-img-400x400.jpg?=1" alt="" class="rounded-circle">
-                                    </div>
-                                    <p class="quote-name">
-                                        Angeles Rios
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="rs-box-testimony">
-                                <div class="quote-box">
-                                    <blockquote>
-                                        Me encantó un lugar muy limpio y agradable para estar con amigos o familia
-                                    </blockquote>
-                                    <div class="media">
-                                        <img src="/images/dummy-img-400x400.jpg?=1" alt="" class="rounded-circle">
-                                    </div>
-                                    <p class="quote-name">
-                                        Melany Urbina
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
+                <div class="col-12 col-sm-12 col-md-12">
+                    <div class="spacer-30"></div>
+                    <div class="row">
+                        <div class="col-sm-12 col-md-12 text-center">
+                            <h2 class="section-heading text-primary no-after mb-4">
+                                Preguntas Frecuentes (FAQ)
+                            </h2>
 
-                        <!-- opinion -->
-                        <div class="item">
-                            <div class="rs-box-testimony">
-                                <div class="quote-box">
-                                    <blockquote>
-                                        Diversión a lo grande, solo como recomendación no vallan en domingo filas largas
-                                        para subirte a un tobogán, calor extremo, filas para un helado, para una cerveza
-                                        preparada., la lectura en el brazalete entre bajo su propio riesgo no se si es
-                                        por marketing o por deslindar cual quier responsabilidad.
-                                        En comida el cordon blue sigue siendo mi favorito, el SASHIMI muy rico el
-                                        CEVICHE de pescando también muy rico
-                                        En el tobogán del torbellino (escuzado) se requiere de dos personas atentas para
-                                        ayuda al salir de la piscina en donde caes
-                                        Saludos
-                                    </blockquote>
-                                    <div class="media">
-                                        <img src="/images/dummy-img-400x400.jpg?=1" alt="" class="rounded-circle">
+                            <div class="accordion rs-accordion" id="accordionExample">
+                                <!-- Item 1 -->
+                                <div class="card">
+                                    <div class="card-header" id="headingOne">
+                                        <h3 class="title">
+                                            <button class="btn btn-link" type="button" data-toggle="collapse"
+                                                data-target="#collapseOne" aria-expanded="true"
+                                                aria-controls="collapseOne">
+                                                ¿Qué no está permitido?
+                                            </button>
+                                        </h3>
                                     </div>
-                                    <p class="quote-name">
-                                        Patricio Estrella
-                                    </p>
+                                    <div id="collapseOne" class="collapse show" aria-labelledby="headingOne"
+                                        data-parent="#accordionExample">
+                                        <div class="card-body">
+                                            No se puede introducir ningún tipo de alimento, bebida o vidrio (a excepción
+                                            de agua natural y hielera con sólo hielo) pero contamos con área de comida y
+                                            bebida dentro del parque incluyendo bebidas alcohólicas.
+                                        </div>
+                                    </div>
                                 </div>
+                                <!-- Item 2 -->
+                                <div class="card">
+                                    <div class="card-header" id="headingTwo">
+                                        <h3 class="title">
+                                            <button class="btn btn-link collapsed" type="button" data-toggle="collapse"
+                                                data-target="#collapseTwo" aria-expanded="false"
+                                                aria-controls="collapseTwo">
+                                                ¿Cómo llegar en transporte público?
+                                            </button>
+                                        </h3>
+                                    </div>
+                                    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo"
+                                        data-parent="#accordionExample">
+                                        <div class="card-body">
+                                            Transportes Águila te deja en la autopista a 10 minutos caminando hacia el
+                                            parque aproximadamente.
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- Item 3 -->
+                                <div class="card">
+                                    <div class="card-header" id="headingThree">
+                                        <h3 class="title">
+                                            <button class="btn btn-link collapsed" type="button" data-toggle="collapse"
+                                                data-target="#collapseThree" aria-expanded="false"
+                                                aria-controls="collapseThree">
+                                                ¿Hay límite de personas?
+                                            </button>
+                                        </h3>
+                                    </div>
+                                    <div id="collapseThree" class="collapse" aria-labelledby="headingThree"
+                                        data-parent="#accordionExample">
+                                        <div class="card-body">
+                                            <p>¡No hay límites! El parque cuenta con dimensiones suficientemente amplias
+                                                para que nadie se quede sin diversión.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- Item 4 -->
+                                <div class="card">
+                                    <div class="card-header" id="headingFour">
+                                        <h3 class="title">
+                                            <button class="btn btn-link collapsed" type="button" data-toggle="collapse"
+                                                data-target="#collapseFour" aria-expanded="false"
+                                                aria-controls="collapseFour">
+                                                ¿Se necesita reservar?
+                                            </button>
+                                        </h3>
+                                    </div>
+                                    <div id="collapseFour" class="collapse" aria-labelledby="headingFour"
+                                        data-parent="#accordionExample">
+                                        <div class="card-body">
+                                            <p>No es necesario reservar. Puedes acudir directamente al parque.</p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            <!-- end accordion -->
+
+                            <!-- Item 5 -->
+                            <div class="card">
+                                <div class="card-header" id="headingFive">
+                                    <h3 class="title">
+                                        <button class="btn btn-link collapsed" type="button" data-toggle="collapse"
+                                            data-target="#collapseFive" aria-expanded="false"
+                                            aria-controls="collapseFive">
+                                            ¿Está disponible el pago con tarjeta?
+                                        </button>
+                                    </h3>
+                                </div>
+                                <div id="collapseFive" class="collapse" aria-labelledby="headingFive"
+                                    data-parent="#accordionExample">
+                                    <div class="card-body">
+                                        <p>¡Así es! Puedes realizar tus pagos con tarjeta en taquilla y área de comida.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        <!-- end accordion -->
+
+                        <!-- Item 6 -->
+                        <div class="card">
+                            <div class="card-header" id="headingSix">
+                                <h3 class="title">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse"
+                                        data-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+                                        ¿Se puede reservar un área exclusiva?
+                                    </button>
+                                </h3>
+                            </div>
+                            <div id="collapseSix" class="collapse" aria-labelledby="headingSix"
+                                data-parent="#accordionExample">
+                                <div class="card-body">
+                                    <p>Por el momento no tenemos disponible áreas exclusivas pero esperamos pronto
+                                        contar con el servicio.</p>
+                                </div>
+                            </div>
+                        </div>
+                    <!-- end accordion -->
+
+                    <!-- Item 7 -->
+                    <div class="card">
+                        <div class="card-header" id="headingSeven">
+                            <h3 class="title">
+                                <button class="btn btn-link collapsed" type="button" data-toggle="collapse"
+                                    data-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
+                                    ¿Qué incluye el boleto?
+                                </button>
+                            </h3>
+                        </div>
+                        <div id="collapseSeven" class="collapse" aria-labelledby="headingThree"
+                            data-parent="#accordionExample">
+                            <div class="card-body">
+                                <p>
+                                    Te incluye el acceso a todas las atracciones y a disfrutar de todas las áreas del
+                                    parque sin límite. <br>
+                                    ¡Puedes subirte a los toboganes cuantas veces quieras en sus horarios establecidos!
+                                </p>
                             </div>
                         </div>
                     </div>
-                </div>
-
+                <!-- end accordion -->
             </div>
+
+
         </div>
+
     </div>
+
 </div>
 
-<!-- CTA -->
-<div hidden class="section bg-tertiary">
-    <div class="content-wrap py-5">
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col-sm-12 col-md-12">
-                    <div class="cta-1">
-                        <div class="body-text mb-3">
-                            <h3 class="my-1 text-secondary">Let's join the best kindergarten now!</h3>
-                            <p class="uk18 mb-0 text-white">We provide high standar clean website for your business
-                                solutions</p>
-                        </div>
-                        <div class="body-action">
-                            <a href="contact.html" class="btn btn-primary mt-3">CONTACT US</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
 </div>
+</div>
+</div>
+
 
 <div id="test-modal" class="container white-popup mfp-hide"
     style="background-color: #fff; text-align: center; max-width: 60rem;">
