@@ -40,7 +40,6 @@
     </div>
     <div class="custom-nav owl-nav"></div>
 </div>
-
 <!-- SHORTCUT -->
 <div class="section services">
     <div class="content-wrap">
@@ -53,8 +52,8 @@
                             <div class="rs-feature-box-1 bg-primary">
                                 <i class="fa fa-clock"></i>
                                 <div class="body">
-                                    <h4>Horarios</h4>
-                                    <h3>¡Visítanos!</h3>
+                                    <h3>Horarios</h3>
+                                    <h2>¡Visítanos!</h2>
                                     <p>Viernes, sábado y domingo: <br> 10:00am a 06:00pm <br> <br><br></p>
                                     <div class="spacer-10"></div>
                                     <a href="https://goo.gl/maps/2mrdCKrLJ5nuSoKf9" class="btn" target="_blank">Ver
@@ -63,12 +62,30 @@
                             </div>
                         </div>
                         <div class="col-sm-12 col-md-4 col-lg-4">
+                            <!-- BOX 3 -->
+                            <div class="rs-feature-box-1 bg-tertiary">
+                                <i class="fa fa-dollar-sign"></i>
+                                <!-- <i class="fa fa-utensils"></i> <i class="fa-regular fa-utensils-slash" style="color: #fefffe;"></i> -->
+                                <div class="body">
+                                    <h3>Precios</h3>
+                                    <h2>¡Te Esperamos!</h2>
+                                    <p>
+                                        Adultos $330 MXN <br>
+                                        Niños $270 MXN<br>
+                                        <strong>*Los niños aplican a partir de los 3 años hasta los 10 años.</strong>
+                                    </p>
+                                    <div class="spacer-10"></div>
+                                    <a href="/#mapa" class="btn ">Ver mapa</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-12 col-md-4 col-lg-4">
                             <!-- BOX 2 -->
                             <div class="rs-feature-box-1 bg-secondary">
-                                <i class="fa fa-clock"></i>
+                                <i class="fa fa-map-marked"></i>
                                 <div class="body">
-                                    <h4>Ubicación</h4>
-                                    <h3>Encuéntranos aquí</h3>
+                                    <h3>Ubicación</h3>
+                                    <h2>Encuéntranos aquí</h2>
                                     <p>
                                         Nuestra ubicación es por toda la Carretera Transpeninsular hasta Caduaño,
                                         aproximadamente a 20min. Desde San José del Cabo.
@@ -78,24 +95,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-sm-12 col-md-4 col-lg-4">
-                            <!-- BOX 3 -->
-                            <div class="rs-feature-box-1 bg-tertiary">
-                                <i class="fa fa-exclamation-circle"></i>
-                                <!-- <i class="fa fa-utensils"></i> <i class="fa-regular fa-utensils-slash" style="color: #fefffe;"></i> -->
-                                <div class="body">
-                                    <h4>Precios</h4>
-                                    <h3>¡Te Esperamos!</h3>
-                                    <p>
-                                        Adultos $330 MXN <br>
-                                        Niños $270 MXN<br>
-                                        <strong>*Los niños aplican a partir de los 3 años hasta los 10 años.</strong>
-                                    </p>
-                                    <div class="spacer-10"></div>
-                                    <a href="#test-modal" class="btn open-popup-link">Ver menú</a>
-                                </div>
-                            </div>
-                        </div>
+                        
                     </div>
                 </div>
             </div>
@@ -110,7 +110,7 @@
         <div class="row">
             <div class="col-sm-12 col-md-12">
                 <!-- <p class="supheading text-center">No te pierdas ni un solo tobogán</p> -->
-                <h2 class="section-heading text-center mb-5">
+                <h2 class="section-heading text-center mb-5" style="color: #00569e !important;">
                     ¡Conócenos!
                 </h2>
             </div>
@@ -171,7 +171,7 @@
                 <div class="col-sm-6 col-md-3">
                     <div class="rs-funfact bg-secondary">
                         <div class="box-fun">
-                            <h2>980</h2>
+                            <h2>+980</h2>
                         </div>
                         <div class="title">Clientes</div>
                     </div>
@@ -218,8 +218,8 @@
                 <!-- Item 1 -->
                 <div class="col-sm-12 col-md-12 col-lg-10 mb-5">
                     <div class="box-gallery">
-                        <a href="/images/mapa.jpg" title="Mapa">
-                            <img class="img-fluid" src="/images/mapa.jpg" alt="">
+                        <a href="/images/mapa.jpg?=3" title="Mapa">
+                            <img class="img-fluid" src="/images/mapa.jpg?=1" alt="">
                         </a>
                     </div>
 
@@ -241,7 +241,7 @@
 </div>
 
 <!-- WHY CHOOSE US -->
-<div class="section bgi-repeat" data-background="/images/11.webp?=2">
+<div class="section bgi-repeat" data-background="/images/11.jpg?=2">
     <div class="content-wrap pb-0">
         <div class="container">
             <div class="row align-items-end">
@@ -264,7 +264,7 @@
                     <div class="spacer-90"></div>
                 </div>
                 <div class="col-sm-12 col-md-12 col-lg-5">
-                    <img src="/images/dummy-img-600x700.jpg?=2" alt="" class="img-fluid">
+                    <img src="/images/13.jpg?=2" alt="" class="img-fluid">
                 </div>
             </div>
 
@@ -422,8 +422,8 @@
     <div class="container">
         <div class="row">
             <div class="col-sm-12 col-md-12">
-                <p class="supheading text-center">A sólo 30 minutos de San José del Cabo ó 1 hora de Cabo San Lucas.
-                    <br> ¡Da click a Google Maps y déjate llevar!
+                <p class="supheading text-center">
+                    ¡Da click a Google Maps y déjate llevar!
                 </p>
                 <h2 class="section-heading text-center mb-5">
                     Te Esperamos
@@ -453,7 +453,7 @@
                     <div class="row">
                         <div class="col-sm-12 col-md-12 text-center">
                             <h2 class="section-heading text-primary no-after mb-4">
-                                Preguntas Frecuentes (FAQ)
+                                Preguntas Frecuentes
                             </h2>
 
                             <div class="accordion rs-accordion" id="accordionExample">
