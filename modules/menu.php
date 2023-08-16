@@ -18,7 +18,7 @@
 <div class="container mt-5">
     <div class="row justify-content-center">
         <div class="col-md-10 text-center">
-            <img class="img-fluid" style="height: 900px;" src="/images/menu.png" alt="">
+            <img class="img-fluid" style="width: 600px;" src="/images/menu2.png" alt="">
         </div>
     </div>
 </div>

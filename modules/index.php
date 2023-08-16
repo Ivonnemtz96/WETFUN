@@ -91,7 +91,7 @@
                                         aproximadamente a 20min. Desde San José del Cabo.
                                     </p>
                                     <div class="spacer-10"></div>
-                                    <a href="https://goo.gl/maps/2mrdCKrLJ5nuSoKf9" class="btn">Ver ubicación</a>
+                                    <a href="https://goo.gl/maps/2mrdCKrLJ5nuSoKf9" target="_blank" class="btn">Ver ubicación</a>
                                 </div>
                             </div>
                         </div>
@@ -145,7 +145,7 @@
                         Zona Splash: 4:00 pm a 5:30 pm
                     </p>
                     <div class="spacer-10"></div>
-                    <a href="https://goo.gl/maps/2mrdCKrLJ5nuSoKf9" class="btn btn-secondary">Ver ubicación</a>
+                    <a href="https://goo.gl/maps/2mrdCKrLJ5nuSoKf9" target="_blank" class="btn btn-secondary">Ver ubicación</a>
                     <div class="spacer-30"></div>
                 </div>
             </div>
