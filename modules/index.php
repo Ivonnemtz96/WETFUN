@@ -53,9 +53,10 @@
                                 <i class="fa fa-clock"></i>
                                 <div class="body">
                                     <h3>Horarios</h3>
-                                    <p><strong>Por el mes de Septiembre, habrá horario nuevo.</strong></p>
-                                    <h2>¡Visítanos!</h2>
-                                    <p>Viernes a domingo: <br> 10:00am a 06:00pm <br> <br><br></p>
+                                    <p><strong>Gracias por todo. <br> ¡Nos vemos el próximo año!</strong></p>
+                                    <h2>¡CERRADO!</h2>
+                                    <p>Espera nuestros horarios para el 2024 <br></p>
+                                    <!-- <p>Viernes a domingo: <br> 10:00am a 06:00pm <br> <br><br></p> --> <br><br><br>
                                     <div class="spacer-10"></div>
                                     <a href="https://goo.gl/maps/2mrdCKrLJ5nuSoKf9" class="btn" target="_blank">Ver
                                         ubicación</a>
@@ -93,11 +94,12 @@
                                         aproximadamente a 20min. Desde San José del Cabo.
                                     </p>
                                     <div class="spacer-10"></div><br><br><br>
-                                    <a href="https://goo.gl/maps/2mrdCKrLJ5nuSoKf9" target="_blank" class="btn">Ver ubicación</a>
+                                    <a href="https://goo.gl/maps/2mrdCKrLJ5nuSoKf9" target="_blank" class="btn">Ver
+                                        ubicación</a>
                                 </div>
                             </div>
                         </div>
-                        
+
                     </div>
                 </div>
             </div>
@@ -147,7 +149,8 @@
                         Zona Splash: 4:00 pm a 5:30 pm
                     </p>
                     <div class="spacer-10"></div>
-                    <a href="https://goo.gl/maps/2mrdCKrLJ5nuSoKf9" target="_blank" class="btn btn-secondary">Ver ubicación</a>
+                    <a href="https://goo.gl/maps/2mrdCKrLJ5nuSoKf9" target="_blank" class="btn btn-secondary">Ver
+                        ubicación</a>
                     <div class="spacer-30"></div>
                 </div>
             </div>
@@ -536,88 +539,103 @@
                                     </div>
                                 </div>
 
-                            <!-- end accordion -->
+                                <!-- end accordion -->
 
-                            <!-- Item 5 -->
-                            <div class="card">
-                                <div class="card-header" id="headingFive">
-                                    <h3 class="title">
-                                        <button class="btn btn-link collapsed" type="button" data-toggle="collapse"
-                                            data-target="#collapseFive" aria-expanded="false"
-                                            aria-controls="collapseFive">
-                                            ¿Está disponible el pago con tarjeta?
-                                        </button>
-                                    </h3>
-                                </div>
-                                <div id="collapseFive" class="collapse" aria-labelledby="headingFive"
-                                    data-parent="#accordionExample">
-                                    <div class="card-body">
-                                        <p>¡Así es! Puedes realizar tus pagos con tarjeta en taquilla y área de comida.
-                                        </p>
+                                <!-- Item 5 -->
+                                <div class="card">
+                                    <div class="card-header" id="headingFive">
+                                        <h3 class="title">
+                                            <button class="btn btn-link collapsed" type="button" data-toggle="collapse"
+                                                data-target="#collapseFive" aria-expanded="false"
+                                                aria-controls="collapseFive">
+                                                ¿Está disponible el pago con tarjeta?
+                                            </button>
+                                        </h3>
+                                    </div>
+                                    <div id="collapseFive" class="collapse" aria-labelledby="headingFive"
+                                        data-parent="#accordionExample">
+                                        <div class="card-body">
+                                            <p>¡Así es! Puedes realizar tus pagos con tarjeta en taquilla y área de
+                                                comida.
+                                            </p>
+                                        </div>
                                     </div>
                                 </div>
-                            </div>
-                        <!-- end accordion -->
+                                <!-- end accordion -->
 
-                        <!-- Item 6 -->
-                        <div class="card">
-                            <div class="card-header" id="headingSix">
-                                <h3 class="title">
-                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse"
-                                        data-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-                                        ¿Se puede reservar un área exclusiva?
-                                    </button>
-                                </h3>
-                            </div>
-                            <div id="collapseSix" class="collapse" aria-labelledby="headingSix"
-                                data-parent="#accordionExample">
-                                <div class="card-body">
-                                    <p>Por el momento no tenemos disponible áreas exclusivas pero esperamos pronto
-                                        contar con el servicio.</p>
+                                <!-- Item 6 -->
+                                <div class="card">
+                                    <div class="card-header" id="headingSix">
+                                        <h3 class="title">
+                                            <button class="btn btn-link collapsed" type="button" data-toggle="collapse"
+                                                data-target="#collapseSix" aria-expanded="false"
+                                                aria-controls="collapseSix">
+                                                ¿Se puede reservar un área exclusiva?
+                                            </button>
+                                        </h3>
+                                    </div>
+                                    <div id="collapseSix" class="collapse" aria-labelledby="headingSix"
+                                        data-parent="#accordionExample">
+                                        <div class="card-body">
+                                            <p>Por el momento no tenemos disponible áreas exclusivas pero esperamos
+                                                pronto
+                                                contar con el servicio.</p>
+                                        </div>
+                                    </div>
                                 </div>
-                            </div>
-                        </div>
-                    <!-- end accordion -->
+                                <!-- end accordion -->
 
-                    <!-- Item 7 -->
-                    <div class="card">
-                        <div class="card-header" id="headingSeven">
-                            <h3 class="title">
-                                <button class="btn btn-link collapsed" type="button" data-toggle="collapse"
-                                    data-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
-                                    ¿Qué incluye el boleto?
-                                </button>
-                            </h3>
-                        </div>
-                        <div id="collapseSeven" class="collapse" aria-labelledby="headingThree"
-                            data-parent="#accordionExample">
-                            <div class="card-body">
-                                <p>
-                                    Te incluye el acceso a todas las atracciones y a disfrutar de todas las áreas del
-                                    parque sin límite. <br>
-                                    ¡Puedes subirte a los toboganes cuantas veces quieras en sus horarios establecidos!
-                                </p>
+                                <!-- Item 7 -->
+                                <div class="card">
+                                    <div class="card-header" id="headingSeven">
+                                        <h3 class="title">
+                                            <button class="btn btn-link collapsed" type="button" data-toggle="collapse"
+                                                data-target="#collapseSeven" aria-expanded="false"
+                                                aria-controls="collapseSeven">
+                                                ¿Qué incluye el boleto?
+                                            </button>
+                                        </h3>
+                                    </div>
+                                    <div id="collapseSeven" class="collapse" aria-labelledby="headingThree"
+                                        data-parent="#accordionExample">
+                                        <div class="card-body">
+                                            <p>
+                                                Te incluye el acceso a todas las atracciones y a disfrutar de todas las
+                                                áreas del
+                                                parque sin límite. <br>
+                                                ¡Puedes subirte a los toboganes cuantas veces quieras en sus horarios
+                                                establecidos!
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- end accordion -->
                             </div>
+
+
                         </div>
+
                     </div>
-                <!-- end accordion -->
+
+                </div>
+
             </div>
-
-
         </div>
-
     </div>
 
-</div>
-
-</div>
-</div>
-</div>
-
-
-<div id="test-modal" class="container white-popup mfp-hide"
-    style="background-color: #fff; text-align: center; max-width: 60rem;">
-    <h1>Nuestro menú</h1>
-    <img class="img-fluid" src="/images/menu.png" style="margin-bottom: 1rem; height:45rem;" alt="">
-    <p><a class="popup-modal-dismiss  btn btn-primary mb-5" href="#">Regresar</a></p>
-</div>
+<!-- POP UP DE MENÚ -->
+    <div id="test-modal" class="container white-popup mfp-hide"
+        style="background-color: #fff; text-align: center; max-width: 60rem;">
+        <h1>Nuestro menú</h1>
+        <img class="img-fluid" src="/images/menu.png" style="margin-bottom: 1rem; height:45rem;" alt="">
+        <p><a class="popup-modal-dismiss  btn btn-primary mb-5" href="#">Regresar</a></p>
+    </div>
+<!-- POP UP DE CERRADO -->
+    <a id="popuplink" href="#inline" style="display:none;"></a>
+    <div id="inline" style="display:none; padding-bottom: 10px; text-align: center; width:auto;">
+        <div class="btns-box">
+            <a class="btn btn-secondary" style="margin-bottom: 1rem;" onclick="jQuery.fancybox.close();" href="#"><span
+                    class="txt">Cerrar</span></a>
+        </div>
+        <img style="width:80%" src="/images/cerrado.jpg" alt="">
+    </div>

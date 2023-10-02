@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="es">
 <?php
-    include("includes/head.php");
+    include("includes/head2.php");
 ?>
 
 <body>
@@ -10,7 +10,7 @@
         include("modules/index.php");
         include("includes/redes.php");
         include("includes/footer.php");
-        include("includes/scripts.php");
+        include("includes/scripts2.php");
     ?>
 </body>
 
