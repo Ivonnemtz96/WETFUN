@@ -53,8 +53,9 @@
                                 <i class="fa fa-clock"></i>
                                 <div class="body">
                                     <h3>Horarios</h3>
+                                    <p><strong>Por el mes de Septiembre, habrá horario nuevo.</strong></p>
                                     <h2>¡Visítanos!</h2>
-                                    <p>Viernes, sábado y domingo: <br> 10:00am a 06:00pm <br> <br><br></p>
+                                    <p>Viernes a domingo: <br> 10:00am a 06:00pm <br> <br><br></p>
                                     <div class="spacer-10"></div>
                                     <a href="https://goo.gl/maps/2mrdCKrLJ5nuSoKf9" class="btn" target="_blank">Ver
                                         ubicación</a>
@@ -75,6 +76,7 @@
                                         <strong>*Los niños aplican a partir de los 3 años hasta los 10 años.</strong>
                                     </p>
                                     <div class="spacer-10"></div>
+                                    <br><br><br>
                                     <a href="/#mapa" class="btn ">Ver mapa</a>
                                 </div>
                             </div>
@@ -90,7 +92,7 @@
                                         Nuestra ubicación es por toda la Carretera Transpeninsular hasta Caduaño,
                                         aproximadamente a 20min. Desde San José del Cabo.
                                     </p>
-                                    <div class="spacer-10"></div>
+                                    <div class="spacer-10"></div><br><br><br>
                                     <a href="https://goo.gl/maps/2mrdCKrLJ5nuSoKf9" target="_blank" class="btn">Ver ubicación</a>
                                 </div>
                             </div>
