@@ -637,5 +637,5 @@
             <a class="btn btn-secondary" style="margin-bottom: 1rem;" onclick="jQuery.fancybox.close();" href="#"><span
                     class="txt">Cerrar</span></a>
         </div>
-        <img style="width:80%" src="/images/cerrado.jpg" alt="">
+        <img style="width:80%" src="/images/Cerrado.png?=1" alt="">
     </div>
